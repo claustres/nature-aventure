@@ -1,2 +1,3 @@
-# nature-aventure
-Site du Club Nature-Aventure de Castelnaudary
+## Site du Club Nature-Aventure de Castelnaudary
+
+> Réalisé avec [VuePress](https://vuepress.vuejs.org).

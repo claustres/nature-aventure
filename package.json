@@ -1,0 +1,27 @@
+{
+  "name": "nature-aventure",
+  "version": "0.1.0",
+  "description": "Site du Club Nature-Aventure de Castelnaudary",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claustres/nature-aventure.git"
+  },
+  "author": "Luc Claustres",
+  "homepage": "https://github.com/claustres/nature-aventure",
+  "devDependencies": {
+    "vuepress": "^0.8.4"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "browserslist": [
+    ">1%"
+  ],
+  "dependencies": {
+    "vuepress-theme-vue": "^1.0.2"
+  }
+}
