@@ -1,5 +1,5 @@
 module.exports = {
-  dest: 'vuepress',
+  dest: 'site',
   title: 'Club Nature-Aventure',
   description: 'Activités de pleine nature à Castelnaudary',
   head: [
