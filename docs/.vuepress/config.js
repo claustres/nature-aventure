@@ -1,7 +1,7 @@
 module.exports = {
   dest: 'vuepress',
   title: 'Club Nature-Aventure',
-  description: 'Escalade et Randonnée à Castelnaudary',
+  description: 'Activités de pleine nature à Castelnaudary',
   head: [
     ['link', { rel: 'icon', href: `/logo.png` }],
     ['link', { rel: 'manifest', href: '/manifest.json' }],

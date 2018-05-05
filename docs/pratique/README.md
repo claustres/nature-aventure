@@ -2,7 +2,7 @@
 sidebar: auto
 ---
 
-# Informations pratiques
+# En pratique
 
 ## Activités
 
@@ -10,9 +10,9 @@ Plusieurs actions tout au long de l’année :
 * Cours d'escalade pour les enfants (à partir de 8 ans), adolescents et adultes.
 * Des sorties falaise à la journée (principalement le samedi) encadrées par un brevet d’état pour tous les niveaux.
 * Des randonnées pédestres, en raquette et/ou ski de randonnée à la journée ou au week-end, encadrées par des initiateurs formés ou Brevet d’Etat.
-* Des stages de plusieurs jours d’initiation à l’escalade en grandes voies, de plusieurs longueurs, canyoning, randonnée, via-ferata et escalade...
+* Des stages de plusieurs jours d’initiation à l’escalade en grandes voies (i.e. de plusieurs longueurs), canyoning, randonnée, via-ferata et escalade.
 * Des formations initiateurs SAE et SNE (structure artificielle/naturelle d’escalade).
-* Passage des UF (attestation de niveau d’autonomie dans la pratique de l’escalade) tout au long de l’année pour les licenciés d’escalade
+* Passage des UF (attestation de niveau d’autonomie dans la pratique de l’escalade) tout au long de l’année pour les licenciés d’escalade.
 * Participation aux compétitions départementale, régionale et nationale d’escalade.
 
 ## Cours
@@ -27,5 +27,14 @@ Les adolescents et les adultes autonomes (UF3 minimum) auront accès au gymnase 
 ## Tarifs
 
 **A compléter**
+
+## Communication
+
+Nous utilisons plusieurs canaux de communication afin de maintenir nos membres informés et coordonner nos activités:
+* Notre [page Facebook](https://www.facebook.com/club-nature-aventure-246588348710328), notamment pour l'organisation et les résultats des compétitions.
+* Notre [forum de discussions](http://escalade-rando.forumactif.org/), notamment pour le détail de l'organisation et le compte-rendu des sorties.
+* Notre [planning](https://docs.google.com/spreadsheet/ccc?key=0Am9JDx3KFFPCdElwZmRSQmFuaW0tSmZmY21iRG04bmc&usp=drive_web#gid=0) pour la liste et les dates des sorties prévues
+* Nos [fiches d'inscription](https://docs.google.com/spreadsheet/ccc?key=0Am9JDx3KFFPCdHZGYWNLU0tlQTVKbVdrems1cllEclE#gid=0) pour réserver votre place lors des sorties
+
 
 

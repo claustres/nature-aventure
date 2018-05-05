@@ -18,7 +18,7 @@ Notre club est dans le réseau CAF (Club Alpin Français), section du [CAFPA](ht
 
 ### Le bureau
 
-Notre bureau élargi assure la représentation du club et coordonnent son fonctionnement.
+Notre bureau élargi assure la représentation du club et coordonne son fonctionnement.
 
 ![Bureau](./bureau.png)
 
