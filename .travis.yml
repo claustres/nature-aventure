@@ -4,6 +4,7 @@ node_js:
 notifications:
   email: false
 install:
+  - yarn install
   - npm run build
 deploy:
   provider: pages
