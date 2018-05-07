@@ -13,8 +13,6 @@ module.exports = {
   serviceWorker: true,
   theme: 'vue',
   themeConfig: {
-    repo: 'claustres/nature-aventure',
-    editLinks: false,
     docsDir: 'docs',
     nav: [
       {
