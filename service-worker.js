@@ -21,15 +21,15 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.2.0/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "de9638b84cc4fdcd7ebcfdd8b50b74f2"
+    "revision": "dbb2c8a7a2f23bc881f248f898bdcd43"
   },
   {
     "url": "accueil.png",
     "revision": "ea485b60f473575d5e47c0d1b51562e4"
   },
   {
-    "url": "assets/css/4.styles.bacde6a8.css",
-    "revision": "069d79588b48e09902be67641999cdc9"
+    "url": "assets/css/4.styles.81e09e6f.css",
+    "revision": "208908e0a3845f82e23d55772a35d7c9"
   },
   {
     "url": "assets/img/bureau.f61d85a9.png",
@@ -44,32 +44,32 @@ self.__precacheManifest = [
     "revision": "83621669651b9a3d4bf64d1a670ad856"
   },
   {
-    "url": "assets/js/0.733c6896.js",
-    "revision": "fdbfaa9856ffa8f6b3ea50f53125fa2b"
+    "url": "assets/js/0.364aa9bc.js",
+    "revision": "dc063535bc66e3c8c2137912cfc6b13e"
   },
   {
     "url": "assets/js/1.3a2f6788.js",
     "revision": "b3dd3c6916565b511970544336d65e35"
   },
   {
-    "url": "assets/js/2.a5160701.js",
-    "revision": "650cdbc948b7cede43feb21780efff9a"
+    "url": "assets/js/2.1ced16ed.js",
+    "revision": "f318da8fc641edaf1ca8099f8c8e0212"
   },
   {
-    "url": "assets/js/3.8f0aaba2.js",
-    "revision": "625279d0c201fe41940334a22e0b7621"
+    "url": "assets/js/3.476579bd.js",
+    "revision": "f050ff5a55833208cb7078260e1ec85c"
   },
   {
-    "url": "assets/js/app.16724306.js",
-    "revision": "3b93f77c620af7db608619f3aff7c16e"
+    "url": "assets/js/app.550fce3a.js",
+    "revision": "93a60acacc50965ab1a425dc2dbdbac5"
   },
   {
     "url": "club/index.html",
-    "revision": "131793d6d4e78ae671d7159bc67c1efd"
+    "revision": "7a0193a6900463f808707bae83c42ba6"
   },
   {
     "url": "contact/index.html",
-    "revision": "0a31f2a109e6db76b11a4d37e630b22d"
+    "revision": "ffda8fe7505dd47c8561f7d76f7834a6"
   },
   {
     "url": "icons/android-chrome-192x192.png",
@@ -89,7 +89,11 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "d578f3f80df1efd711e843d90a547ec3"
+    "revision": "4119dd1bea855e18779e78d79c83cd71"
+  },
+  {
+    "url": "logo-white.png",
+    "revision": "0128bfa2b16b2b4bb4228b59be58a573"
   },
   {
     "url": "logo.png",
@@ -97,7 +101,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pratique/index.html",
-    "revision": "04e76bc19584a20cec35fd5fe4e23a04"
+    "revision": "d3bd2361758af1a72d6f363287df5eaf"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
