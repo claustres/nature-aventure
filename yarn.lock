@@ -4685,9 +4685,9 @@ vuepress-html-webpack-plugin@^3.2.0:
     toposort "^1.0.0"
     util.promisify "1.0.0"
 
-vuepress-theme-vue@^1.0.2:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/vuepress-theme-vue/-/vuepress-theme-vue-1.0.2.tgz#a8f4b8eb1133467431a51960a144d4783c218897"
+"vuepress-theme-nature-aventure@https://github.com/claustres/vuepress-theme-nature-aventure":
+  version "0.0.1"
+  resolved "https://github.com/claustres/vuepress-theme-nature-aventure#84af98dadf2df5fae1792c24ef027fc1b55a9fc7"
 
 vuepress@^0.8.4:
   version "0.8.4"

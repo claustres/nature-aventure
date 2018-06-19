@@ -11,7 +11,7 @@ module.exports = {
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }]
   ],
   serviceWorker: true,
-  theme: 'vue',
+  theme: 'nature-aventure',
   themeConfig: {
     docsDir: 'docs',
     nav: [

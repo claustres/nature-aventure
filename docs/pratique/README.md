@@ -17,16 +17,18 @@ Plusieurs actions tout au long de l’année :
 
 ## Cours
 
-Pour la saison 2017-2018 les cours ont lieu au Gymnase du [Lycée Germaine Tillion](https://www.google.fr/maps?q=Lyc%C3%A9e+Germaine+Tillion+1+rue+du+Campus+Jean+Durand+11493+Castelnaudary&rlz=1C1CHBF_frFR774FR774&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjD3c7q2e7aAhXLK8AKHasbAkkQ_AUoAXoECAAQAw):
+Pour la saison 2017-2018 les cours ont lieu au Gymnase du [Lycée Germaine Tillion](https://www.google.fr/maps?q=Lyc%C3%A9e+Germaine+Tillion+1+rue+du+Campus+Jean+Durand+11493+Castelnaudary&rlz=1C1CHBF_frFR774FR774&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjD3c7q2e7aAhXLK8AKHasbAkkQ_AUoAXoECAAQAw) tous les mercredis (hors vacances scolaires):
 * Les enfants de 8 ans à 10 ans de 16h00 à 17h15
 * Les ados de 11 ans à 17 ans de 17h00 à 18h30
 * Les adultes de 18 ans et + de 18h30 à 20h00
 
-Les adolescents et les adultes autonomes (UF3 minimum) auront accès au gymnase du lycée Germaine TIllion les lundis de 18h30 à 20h30.
+*Les adultes autonomes (UF3 minimum) auront également accès au gymnase du lycée Germaine Tillion les lundis de 18h30 à 20h30.*
+
+*Les adolescents autonomes (UF3 minimum) auront également accès au gymnase du lycée Germaine Tillion les vendredis de 17h30 à 19h30.*
 
 ## Tarifs
 
-**A compléter**
+**A venir**
 
 ## Communication
 
