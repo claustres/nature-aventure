@@ -33,10 +33,11 @@ Pour la saison 2017-2018 les cours ont lieu au Gymnase du [Lycée Germaine Tilli
 ## Communication
 
 Nous utilisons plusieurs canaux de communication afin de maintenir nos membres informés et coordonner nos activités:
-* Notre [page Facebook](https://www.facebook.com/club-nature-aventure-246588348710328), notamment pour l'organisation et les résultats des compétitions.
-* Notre [forum de discussions](http://escalade-rando.forumactif.org/), notamment pour le détail de l'organisation et le compte-rendu des sorties.
-* Notre [planning](https://docs.google.com/spreadsheet/ccc?key=0Am9JDx3KFFPCdElwZmRSQmFuaW0tSmZmY21iRG04bmc&usp=drive_web#gid=0) pour la liste et les dates des sorties prévues
-* Nos [fiches d'inscription](https://docs.google.com/spreadsheet/ccc?key=0Am9JDx3KFFPCdHZGYWNLU0tlQTVKbVdrems1cllEclE#gid=0) pour réserver votre place lors des sorties
+* Notre [page Facebook](https://www.facebook.com/Club-Nature-Aventure-1590487804525243/), notamment pour l'organisation et les résultats des compétitions.
+* Notre [forum de discussions](http://escalade-rando.forumactif.org/), notamment pour le détail de l'organisation et le compte-rendu des sorties (nécessite la création d'un compte utilisateur).
+* Notre [planning](https://docs.google.com/spreadsheet/ccc?key=0Am9JDx3KFFPCdElwZmRSQmFuaW0tSmZmY21iRG04bmc&usp=drive_web#gid=0) pour la liste et les dates des sorties prévues.
+* Nos [fiches d'inscription](https://docs.google.com/spreadsheet/ccc?key=0Am9JDx3KFFPCdHZGYWNLU0tlQTVKbVdrems1cllEclE#gid=0) pour réserver votre place lors des sorties.
+
 
 
 
