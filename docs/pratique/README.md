@@ -17,18 +17,38 @@ Plusieurs actions tout au long de l’année :
 
 ## Cours
 
-Pour la saison 2017-2018 les cours ont lieu au Gymnase du [Lycée Germaine Tillion](https://www.google.fr/maps?q=Lyc%C3%A9e+Germaine+Tillion+1+rue+du+Campus+Jean+Durand+11493+Castelnaudary&rlz=1C1CHBF_frFR774FR774&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjD3c7q2e7aAhXLK8AKHasbAkkQ_AUoAXoECAAQAw) tous les mercredis (hors vacances scolaires):
-* Les enfants de 8 ans à 10 ans de 16h00 à 17h15
-* Les ados de 11 ans à 17 ans de 17h00 à 18h30
-* Les adultes de 18 ans et + de 18h30 à 20h00
+Pour la saison 2018-2019 les cours ont lieu au Gymnase du [Lycée Germaine Tillion](https://www.google.fr/maps?q=Lyc%C3%A9e+Germaine+Tillion+1+rue+du+Campus+Jean+Durand+11493+Castelnaudary&rlz=1C1CHBF_frFR774FR774&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjD3c7q2e7aAhXLK8AKHasbAkkQ_AUoAXoECAAQAw) toutes les semaines (hors vacances scolaires):
 
-*Les adultes autonomes (UF3 minimum) auront également accès au gymnase du lycée Germaine Tillion les lundis de 18h30 à 20h30.*
+| Horaire | Public | Contenu |
+| :---: | :---: | :---: |
+| Lundi de 18h00 à 20h00 | + de 16 ans *autonomes* | Perfectionnement |
+| Lundi de 20h00 à 21h00 | + de 16 ans *autonomes* | Renforcement musculaire |
+| Mercredi de 16h00 à 17h00 | 8 à 10 ans | Cours |
+| Mercredi de 17h00 à 18h30 | 11 à 16 ans *débutants* | Cours |
+| Mercredi de 18h30 à 20h00 | + de 16 ans *débutants* | Cours |
+| Vendredi de 17h45 à 19h30 | 11 à 15 ans *initiés* | Cours |
+| Vendredi de 19h à 21h | + de 16 ans *autonomes* | Libre |
 
-*Les adolescents autonomes (UF3 minimum) auront également accès au gymnase du lycée Germaine Tillion les vendredis de 17h30 à 19h30.*
+> Un pratiquant est considéré autonome lorsqu'il a atteint le niveau 2 du livret d'escalade.
 
 ## Tarifs
 
-**A venir**
+Public | Catégorie | Sans assurance | Avec assurance | Escalade | Total avec assurance |
+| :---: | :---: | :---: | :---: | :---: | :---: |
++ de 24 ans | T1 | 82,40 € | 103,40 € | 105,00 € | 208,40 € |
+18 à 24 ans | J1 | 71,10 € |87,10 € |105,00 € | 192,10 € |
+- de 18 ans | J2 | 65,80 € |81,80 € |105,00 € | 186,80 € |
+Conjoint d'adhérent | C1 | 66,40 € |87,40 € |105,00 € | 192,40 € |
+Enfants d'adhérent (18 à 24 ans) | E1 | 60,20 € | 76,20 € | 105,00 € | 181,20 € |
+Enfants d'adhérent (- 18 ans) | E2 | 54,50 € | 70,50 € | 105,00 € | 175,50 € |
++ de 65 ans et + 25 ans de CAF | A1 | 73,00 € | 94,00 € | 105,00 € | 199,00 € |
+BE Accompagnateur - Guide HM | S1 | 78,00 € | 99,00 € | 105,00 € | 204,00 € |
+Cotisation temporaire 48h |  |  | 13,00 € |
+Cotisation temporaire 24h |  |  | 6,50 € |
+
+* Abonnement annuel revue La Montagne Alpinisme: 19,00 €
+* Abonnement annuel revue Pyrénéenne: 15,60 €
+
 
 ## Communication
 
