@@ -17,7 +17,7 @@ Plusieurs actions tout au long de l’année :
 
 ## Cours
 
-Pour la saison 2018-2019 les cours ont lieu au Gymnase du [Lycée Germaine Tillion](https://www.google.fr/maps?q=Lyc%C3%A9e+Germaine+Tillion+1+rue+du+Campus+Jean+Durand+11493+Castelnaudary&rlz=1C1CHBF_frFR774FR774&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjD3c7q2e7aAhXLK8AKHasbAkkQ_AUoAXoECAAQAw) toutes les semaines (hors vacances scolaires):
+Pour la saison 2018-2019 les cours ont lieu au Gymnase du [Lycée Germaine Tillion](https://www.google.fr/maps?q=Lyc%C3%A9e+Germaine+Tillion+1+rue+du+Campus+Jean+Durand+11493+Castelnaudary&rlz=1C1CHBF_frFR774FR774&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjD3c7q2e7aAhXLK8AKHasbAkkQ_AUoAXoECAAQAw) toutes les semaines (hors vacances scolaires) à partir du **17 septembre 2018**:
 
 | Horaire | Public | Contenu |
 | :---: | :---: | :---: |
