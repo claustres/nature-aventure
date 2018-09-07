@@ -21,7 +21,7 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.4.1/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "a7ef4803f610c04f771d90eb623a4ed1"
+    "revision": "0921fb0b4c720aa26f6f72652da62c53"
   },
   {
     "url": "accueil.png",
@@ -68,16 +68,16 @@ self.__precacheManifest = [
     "revision": "257a2989706fc1ae2e2d604daf30ace0"
   },
   {
-    "url": "assets/js/app.3c4dede7.js",
-    "revision": "b66f3c52047065f655bf02c1884e60a2"
+    "url": "assets/js/app.f12010d9.js",
+    "revision": "b233835cd7a18573889debed277cdb0b"
   },
   {
     "url": "club/index.html",
-    "revision": "2b52ab06b398f915e98eeb55055cebb0"
+    "revision": "7e29dc46f6264181604ec1f111df0773"
   },
   {
     "url": "contact/index.html",
-    "revision": "a14800e74b8396620f4345bafca0a370"
+    "revision": "cd45f5d98ce8b5e164f2eba0d1b245d5"
   },
   {
     "url": "icons/android-chrome-192x192.png",
@@ -97,7 +97,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "517e6ed7a31925123bbb3291ac09b14b"
+    "revision": "0cba9f5ea704f29c814a06fb4873197d"
   },
   {
     "url": "logo-black.png",
@@ -113,7 +113,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pratique/index.html",
-    "revision": "de0be184da31bbd845bb081e87f6074e"
+    "revision": "519992b873eecb87f716c89734e95a3f"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
