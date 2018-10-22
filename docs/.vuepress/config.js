@@ -1,6 +1,6 @@
 module.exports = {
   dest: 'site',
-  base: '/nature-aventure/',
+  base: '/',
   title: 'Club Nature-Aventure',
   description: 'Activités de pleine nature à Castelnaudary',
   head: [
