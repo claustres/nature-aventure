@@ -28,5 +28,14 @@ module.exports = {
         link: '/contact/'
       }
     ]
+  },
+  plugins: {
+    '@vuepress/pwa': {
+      serviceWorker: true,
+      updatePopup: {
+        message: 'Nouveau contenu disponible',
+        buttonText: 'Rafraîchir'
+      }
+    }
   }
 }
