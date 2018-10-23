@@ -51,7 +51,7 @@ Cotisation temporaire 24h |  |  | 6,50 € |
 
 ## Adhésion
 
-Téléchargez la [fiche d'adhésion](/nature-aventure/fiche-adhesion-2018-2019.pdf) pour la saison 2018-2019.
+Téléchargez la [fiche d'adhésion](/fiche-adhesion-2018-2019.pdf) pour la saison 2018-2019.
 
 ## Communication
 

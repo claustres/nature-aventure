@@ -5801,7 +5801,7 @@ vuepress-html-webpack-plugin@^3.2.0:
 
 "vuepress-theme-nature-aventure@https://github.com/claustres/vuepress-theme-nature-aventure":
   version "0.0.1"
-  resolved "https://github.com/claustres/vuepress-theme-nature-aventure#5ea4996073528a8ddc629a1bb69ab5fba38952d2"
+  resolved "https://github.com/claustres/vuepress-theme-nature-aventure#14d699c49212e54e44beb972e62ba00d6848e50c"
 
 vuepress@^0.14.0:
   version "0.14.2"
