@@ -21,15 +21,15 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.4.1/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "d7d89273a66989284c86af341eabafa5"
+    "revision": "2bcf64b6d34a89cb93bf908d27cb1464"
   },
   {
     "url": "accueil.png",
     "revision": "ea485b60f473575d5e47c0d1b51562e4"
   },
   {
-    "url": "assets/css/0.styles.da34b24d.css",
-    "revision": "a2bc9578d98b2c884ba7bd12d179c79c"
+    "url": "assets/css/0.styles.f769e60d.css",
+    "revision": "6d079eb24adec22d599ddb69f525f6dd"
   },
   {
     "url": "assets/img/bureau.f61d85a9.png",
@@ -68,16 +68,16 @@ self.__precacheManifest = [
     "revision": "5d089c4cee400d66930c66e8048e8213"
   },
   {
-    "url": "assets/js/app.595bdb35.js",
-    "revision": "ed733423c42ee0151b33d5b3c0718b2c"
+    "url": "assets/js/app.2c962800.js",
+    "revision": "1c8278d1b81c046864a847125c5e1e61"
   },
   {
     "url": "club/index.html",
-    "revision": "0d84416aa313a5564ed34f888837157a"
+    "revision": "0bf7c94e50e1bc79bd3f297f33a057a3"
   },
   {
     "url": "contact/index.html",
-    "revision": "6c41f34475709dc3db7b9c3f889d7fca"
+    "revision": "ebe04730419be71044ec8cd0e591e6e6"
   },
   {
     "url": "icons/android-chrome-192x192.png",
@@ -97,7 +97,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "2233dbfaaa6890bce9d777f8d8cd0fec"
+    "revision": "4c83316dfeb3b5d919cd1e800c4ce8f8"
   },
   {
     "url": "logo-black.png",
@@ -113,7 +113,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pratique/index.html",
-    "revision": "4c9659ad2cba2c89e04c0b28f7d041c4"
+    "revision": "ece869cdc370894a1803d13bbb678777"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
