@@ -21,7 +21,7 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.4.1/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "3f3db88b436acc59ebb9755d8e8cd0cb"
+    "revision": "041acf85a2dded1c0e818dfbb2396358"
   },
   {
     "url": "accueil.png",
@@ -56,8 +56,8 @@ self.__precacheManifest = [
     "revision": "619d68cf13e9c4627de5e9521f272e86"
   },
   {
-    "url": "assets/js/5.f559cef6.js",
-    "revision": "e6dd92312a63aea182f5b52cf6405b6c"
+    "url": "assets/js/5.126628cf.js",
+    "revision": "b47d32592e38d2e4390db44ee55d0b44"
   },
   {
     "url": "assets/js/6.6bc736ab.js",
@@ -68,16 +68,16 @@ self.__precacheManifest = [
     "revision": "37312e41662d187c812495797556d3bc"
   },
   {
-    "url": "assets/js/app.d3bb0aaa.js",
-    "revision": "92fd82dac66c437db15624996ba6e1db"
+    "url": "assets/js/app.bed14963.js",
+    "revision": "75495fcc6b02f9db49026d158e13e950"
   },
   {
     "url": "club/index.html",
-    "revision": "79bb9f1334f4f3392fd0d10fc14d4b33"
+    "revision": "35ba90905bbac19bd95f16648884fdff"
   },
   {
     "url": "contact/index.html",
-    "revision": "14c1bc1eb85d133a170ba7174e473e27"
+    "revision": "01745fbf9680bcbcf62ea9597cbc0af0"
   },
   {
     "url": "icons/android-chrome-192x192.png",
@@ -97,7 +97,15 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "4344d5332a8ecaee4ee048d2e818e6de"
+    "revision": "b5f36106c74d03f01ccae14fc9c2899e"
+  },
+  {
+    "url": "logo_aude.jpg",
+    "revision": "e21e0b7de7e28ca43ee2cbd5656e6f33"
+  },
+  {
+    "url": "logo_occitanie.jpg",
+    "revision": "78d06b450431f5df986acd127dc79aaa"
   },
   {
     "url": "logo-black.png",
@@ -113,7 +121,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pratique/index.html",
-    "revision": "91b878b3338ceab28ebb92c4b00abdb6"
+    "revision": "bacb5ecdeb98de38b151f5238dbb4895"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
