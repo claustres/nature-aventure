@@ -9,5 +9,5 @@ Votre message sera aiguillé vers le membre du bureau, ou le référent adéquat
 :::
 
 ::: warning Note
-Pour des raisons compréhensibles de protection de la vie privée nous ne divulgons pas de façon publique les coordonnées de nos bénévoles. Elles vous serons communiquées si votre demande le nécessite ou lorsque vous ferez partie du club, merci de votre compréhension.
+Pour des raisons évidentes de protection de la vie privée nous ne divulgons pas de façon publique les coordonnées de nos bénévoles. Elles vous serons communiquées si votre demande le nécessite ou lorsque vous ferez partie du club, merci de votre compréhension.
 :::

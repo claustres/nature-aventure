@@ -9,3 +9,5 @@ Les [diagrammes du club](https://github.com/claustres/nature-aventure/blob/maste
 Lors de la modification des fichiers le site est automatiquement redéployé via [Travis CI](https://docs.travis-ci.com/user/deployment/pages/) et est accessible sur https://claustres.github.io/nature-aventure/.
 
 Le nom de domaine https://natureaventure11.fr/ redirigeant vers ce site via un [enregistrement de type A](https://help.github.com/articles/troubleshooting-custom-domains/#dns-record-doesnt-point-to-githubs-server) est géré par OVH.
+
+Le réglement en ligne pour l'école d'escalade est géré via [Hello Asso](https://www.helloasso.com/).
