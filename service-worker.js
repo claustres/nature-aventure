@@ -21,11 +21,15 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.4.1/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "57293e7381f099f55f3e97afbb48c6ee"
+    "revision": "9a7a513e419fa9e691b20d60f1ee3839"
   },
   {
     "url": "accueil.png",
     "revision": "ea485b60f473575d5e47c0d1b51562e4"
+  },
+  {
+    "url": "adherer/index.html",
+    "revision": "085446cff6962ee153a70803b201ffbb"
   },
   {
     "url": "assets/css/0.styles.f769e60d.css",
@@ -56,28 +60,32 @@ self.__precacheManifest = [
     "revision": "619d68cf13e9c4627de5e9521f272e86"
   },
   {
-    "url": "assets/js/5.d632f134.js",
-    "revision": "fdb6f41e9e9a4f8725f19532a70c92ee"
+    "url": "assets/js/5.28f616b1.js",
+    "revision": "3984100ef06f8b27bada2bbaef819d2d"
   },
   {
-    "url": "assets/js/6.6bc736ab.js",
-    "revision": "39eee713a901291fad4909ac378fc0e8"
+    "url": "assets/js/6.ffd96c09.js",
+    "revision": "823fe718f72e7d345df8a47adfcb2efa"
   },
   {
-    "url": "assets/js/7.5eccfa6a.js",
-    "revision": "37312e41662d187c812495797556d3bc"
+    "url": "assets/js/7.48e51dc7.js",
+    "revision": "6eba567f286615b7d510bba97b1350d0"
   },
   {
-    "url": "assets/js/app.b6c8cfe6.js",
-    "revision": "5305259a2c53bbe85aa3667a64a2fe21"
+    "url": "assets/js/8.2c6deea4.js",
+    "revision": "14b09bbfc48ca25ea9900038f6e3c639"
+  },
+  {
+    "url": "assets/js/app.60fdc94c.js",
+    "revision": "92ddc1bb3171bda52096dba29be11c7e"
   },
   {
     "url": "club/index.html",
-    "revision": "9c9ccd76e576be66cd1cf107cd7d8fd1"
+    "revision": "430a488dc1658bf066089b9fc46d6e1a"
   },
   {
     "url": "contact/index.html",
-    "revision": "0720beb8e21158294029f7a068129da0"
+    "revision": "4f38dda25bff4007eb94dda36a14ce6c"
   },
   {
     "url": "icons/android-chrome-192x192.png",
@@ -97,7 +105,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "fb84a95a6063b22149eb08edbfcf3c1b"
+    "revision": "86b0c367dd707aff6f3f4246f76a8f69"
   },
   {
     "url": "logo_aude.jpg",
@@ -116,12 +124,16 @@ self.__precacheManifest = [
     "revision": "0128bfa2b16b2b4bb4228b59be58a573"
   },
   {
+    "url": "logo.jpg",
+    "revision": "8880bcc9b874c2385629db3ccf1f1562"
+  },
+  {
     "url": "logo.png",
     "revision": "94dcef73c750ead0ac560e5a5434ee07"
   },
   {
     "url": "pratique/index.html",
-    "revision": "96e53ab2c7c7c88d0df42f07549d2e1d"
+    "revision": "a3ce81b544d9611ab2dc6252758d9cf2"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
