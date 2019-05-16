@@ -16,7 +16,9 @@ L'assurance est obligatoire pour la pratique en club (cours et sorties).
 
 **1. Enregistrez et réglez votre adhésion à l'école d'escalade**
 
-<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/club-nature-aventure/adhesions/ecole-d-escalade/widget-vignette-horizontale" style="width:800px;height:400px;border:none;"></iframe><div style="width:100%;text-align:center;">Propulsé par <a href="https://www.helloasso.com" rel="nofollow">HelloAsso</a></div>
+ * Pour cela rendez-vous sur notre [page d'adhésion](https://www.helloasso.com/associations/club-nature-aventure/adhesions/ecole-d-escalade)
+<!--iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/club-nature-aventure/adhesions/ecole-d-escalade/widget-vignette-horizontale" style="width:800px;height:400px;border:none;"></iframe>
+<div style="width:100%;text-align:center;">Propulsé par <a href="https://www.helloasso.com" rel="nofollow">HelloAsso</a></div-->
 
 **2. Enregistrez et réglez votre licence avec l'assurance obligatoire sur le site de la Fédération**
   * Vous étiez licencié l'an dernier ? Vous pouvez renouveler votre licence [ici](https://extranet-clubalpin.com/renouveler/) en quelques clics.
