@@ -24,6 +24,10 @@ module.exports = {
         link: '/pratique/'
       },
       {
+        text: 'Adhérer',
+        link: '/adherer/'
+      },
+      {
         text: 'Nous contacter',
         link: '/contact/'
       }

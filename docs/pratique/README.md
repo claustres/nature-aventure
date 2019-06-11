@@ -17,7 +17,7 @@ Plusieurs actions tout au long de l’année :
 
 ## Cours
 
-Pour la saison 2018-2019 les cours ont lieu au Gymnase du [Lycée Germaine Tillion](https://www.google.fr/maps?q=Lyc%C3%A9e+Germaine+Tillion+1+rue+du+Campus+Jean+Durand+11493+Castelnaudary&rlz=1C1CHBF_frFR774FR774&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjD3c7q2e7aAhXLK8AKHasbAkkQ_AUoAXoECAAQAw) toutes les semaines (hors vacances scolaires) à partir du **17 septembre 2018**:
+Les cours ont lieu au Gymnase du [Lycée Germaine Tillion](https://www.google.fr/maps?q=Lyc%C3%A9e+Germaine+Tillion+1+rue+du+Campus+Jean+Durand+11493+Castelnaudary&rlz=1C1CHBF_frFR774FR774&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjD3c7q2e7aAhXLK8AKHasbAkkQ_AUoAXoECAAQAw) toutes les semaines (hors vacances scolaires) à partir du **16 septembre 2019**:
 
 | Horaire | Public | Contenu |
 | :---: | :---: | :---: |
@@ -33,25 +33,18 @@ Pour la saison 2018-2019 les cours ont lieu au Gymnase du [Lycée Germaine Tilli
 
 ## Tarifs
 
-Public | Catégorie | Sans assurance | Avec assurance | Escalade | Total avec assurance |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-+ de 24 ans | T1 | 82,40 € | 103,40 € | 105,00 € | 208,40 € |
-18 à 24 ans | J1 | 71,10 € |87,10 € |105,00 € | 192,10 € |
-- de 18 ans | J2 | 65,80 € |81,80 € |105,00 € | 186,80 € |
-Conjoint d'adhérent | C1 | 66,40 € |87,40 € |105,00 € | 192,40 € |
-Enfants d'adhérent (18 à 24 ans) | E1 | 60,20 € | 76,20 € | 105,00 € | 181,20 € |
-Enfants d'adhérent (- 18 ans) | E2 | 54,50 € | 70,50 € | 105,00 € | 175,50 € |
-+ de 65 ans et + 25 ans de CAF | A1 | 73,00 € | 94,00 € | 105,00 € | 199,00 € |
-BE Accompagnateur - Guide HM | S1 | 78,00 € | 99,00 € | 105,00 € | 204,00 € |
-Cotisation temporaire 48h |  |  | 13,00 € |
-Cotisation temporaire 24h |  |  | 6,50 € |
-
-* Abonnement annuel revue La Montagne Alpinisme: 19,00 €
-* Abonnement annuel revue Pyrénéenne: 15,60 €
-
-## Adhésion
-
-Téléchargez la [fiche d'adhésion](/fiche-adhesion-2018-2019.pdf) pour la saison 2018-2019.
+Public | Catégorie | Licence avec assurance | Ecole d'escalade | Total |
+| :---: | :---: | :---: | :---: | :---: |
++ de 24 ans | T1 | 103,40 € | 105,00 € | 208,40 € |
+18 à 24 ans | J1 | 87,10 € |105,00 € | 192,10 € |
+- de 18 ans | J2 | 81,80 € |105,00 € | 186,80 € |
+Conjoint d'adhérent | C1 | 87,40 € |105,00 € | 192,40 € |
+Enfants d'adhérent (18 à 24 ans) | E1 | 76,20 € | 105,00 € | 181,20 € |
+Enfants d'adhérent (- 18 ans) | E2 | 70,50 € | 105,00 € | 175,50 € |
++ de 65 ans et + 25 ans de CAF | A1 | 94,00 € | 105,00 € | 199,00 € |
+BE Accompagnateur - Guide HM | S1 | 99,00 € | 105,00 € | 204,00 € |
+Cotisation temporaire 48h |  |  |  | 13,00 € |
+Cotisation temporaire 24h |  |  |  | 6,50 € |
 
 ## Communication
 
