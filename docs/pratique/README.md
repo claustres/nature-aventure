@@ -35,16 +35,16 @@ Les cours ont lieu au Gymnase du [Lycée Germaine Tillion](https://www.google.fr
 
 Public | Catégorie | Licence avec assurance | Ecole d'escalade | Total |
 | :---: | :---: | :---: | :---: | :---: |
-+ de 24 ans | T1 | 103,40 € | 105,00 € | 208,40 € |
-18 à 24 ans | J1 | 87,10 € |105,00 € | 192,10 € |
-- de 18 ans | J2 | 81,80 € |105,00 € | 186,80 € |
-Conjoint d'adhérent | C1 | 87,40 € |105,00 € | 192,40 € |
-Enfants d'adhérent (18 à 24 ans) | E1 | 76,20 € | 105,00 € | 181,20 € |
-Enfants d'adhérent (- 18 ans) | E2 | 70,50 € | 105,00 € | 175,50 € |
-+ de 65 ans et + 25 ans de CAF | A1 | 94,00 € | 105,00 € | 199,00 € |
-BE Accompagnateur - Guide HM | S1 | 99,00 € | 105,00 € | 204,00 € |
-Cotisation temporaire 48h |  |  |  | 13,00 € |
-Cotisation temporaire 24h |  |  |  | 6,50 € |
++ de 24 ans | T1 | 103,40€ | 105,00€ | 208,40€ |
+18 à 24 ans | J1 | 87,10€ |105,00€ | 192,10€ |
+- de 18 ans | J2 | 81,80€ |105,00€ | 186,80€ |
+Conjoint d'adhérent | C1 | 87,40€ |105,00€ | 192,40€ |
+Enfants d'adhérent (18 à 24 ans) | E1 | 76,20€ | 105,00€ | 181,20€ |
+Enfants d'adhérent (- 18 ans) | E2 | 70,50€ | 105,00€ | 175,50€ |
++ de 65 ans et + 25 ans de CAF | A1 | 94,00€ | 105,00€ | 199,00€ |
+BE Accompagnateur - Guide HM | S1 | 99,00€ | 105,00€ | 204,00€ |
+Cotisation temporaire 48h |  |  |  | 13,00€ |
+Cotisation temporaire 24h |  |  |  | 6,50€ |
 
 ## Communication
 
