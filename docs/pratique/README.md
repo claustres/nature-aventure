@@ -23,8 +23,8 @@ Les cours ont lieu au Gymnase du [Lycée Germaine Tillion](https://www.google.fr
 | :---: | :---: | :---: |
 | Lundi de 18h30 à 20h15 | + de 16 ans *autonomes* | Perfectionnement |
 | Lundi de 20h15 à 21h15 | + de 16 ans *autonomes* | Renforcement musculaire |
-| Mercredi de 16h00 à 17h00 | 8 à 10 ans *débutants* </br>et 8 à 10 ans *initiés* | Cours |
-| Mercredi de 17h00 à 18h30 | 11 à 16 ans *débutants* | Cours |
+| Mercredi de 16h00 à 17h00 | 8 à 10 ans *débutants* | Cours |
+| Mercredi de 17h00 à 18h30 | 11 à 16 ans *débutants* </br>et 8 à 10 ans *initiés* | Cours |
 | Mercredi de 18h30 à 20h00 | + de 16 ans *débutants* | Cours |
 | Vendredi de 17h45 à 19h30 | 11 à 15 ans *initiés* | Cours |
 | Vendredi de 19h à 21h | + de 16 ans *autonomes* | Libre |
