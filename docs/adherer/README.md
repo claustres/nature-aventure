@@ -20,7 +20,7 @@ L'assurance est obligatoire pour la pratique en club (cours et sorties).
 <!--iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/club-nature-aventure/adhesions/ecole-d-escalade/widget-vignette-horizontale" style="width:800px;height:400px;border:none;"></iframe>
 <div style="width:100%;text-align:center;">Propulsé par <a href="https://www.helloasso.com" rel="nofollow">HelloAsso</a></div-->
 
-**2. Enregistrez et réglez votre licence avec l'assurance obligatoire sur le site de la Fédération à partir du 15 août**
+**2. Enregistrez et réglez votre licence avec l'assurance obligatoire sur le site de la Fédération à partir du 2 septembre**
  * Liens à venir
 
 <!--pre>
@@ -30,7 +30,7 @@ L'assurance est obligatoire pour la pratique en club (cours et sorties).
 
 ## Vous êtes randonneuse ou randonneur
 
-**Enregistrez et réglez uniquement votre licence avec l'assurance obligatoire sur le site de la Fédération à partir du 15 août**
+**Enregistrez et réglez uniquement votre licence avec l'assurance obligatoire sur le site de la Fédération à partir du 2 septembre**
  * Liens à venir
 
 <!--pre>
