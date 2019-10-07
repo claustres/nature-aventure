@@ -27,7 +27,7 @@ Les cours ont lieu au Gymnase du [Lycée Germaine Tillion](https://www.google.fr
 | Mercredi de 17h00 à 18h30 | 11 à 16 ans *débutants* </br>et 8 à 10 ans *initiés* | Cours |
 | Mercredi de 18h30 à 20h00 | + de 16 ans *débutants* | Cours |
 | Vendredi de 17h45 à 19h30 | 11 à 15 ans *initiés* | Cours |
-| Vendredi de 19h à 21h | + de 16 ans *autonomes* | Libre |
+| Vendredi de 19h30 à 21h | + de 16 ans *autonomes* | Libre |
 
 > Un pratiquant est considéré autonome lorsqu'il a atteint le niveau 2 du livret d'escalade.
 
