@@ -21,7 +21,7 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "f0baa54ed1a5bb860c24fff5cebffc8b"
+    "revision": "049ccc732c0ab2a274c141db65386ad2"
   },
   {
     "url": "accueil.png",
@@ -29,7 +29,7 @@ self.__precacheManifest = [
   },
   {
     "url": "adherer/index.html",
-    "revision": "d57252fec7d9ab383bd22e5b3cb30641"
+    "revision": "e39b3454cba155712652fb6a4bc32806"
   },
   {
     "url": "assets/css/0.styles.d794acf3.css",
@@ -48,12 +48,16 @@ self.__precacheManifest = [
     "revision": "83621669651b9a3d4bf64d1a670ad856"
   },
   {
-    "url": "assets/js/10.99bd00ec.js",
-    "revision": "78fa292ba461d20fc983d6bfde159056"
+    "url": "assets/js/10.81c8e675.js",
+    "revision": "cd981532115ca537349b70330c2fc765"
   },
   {
-    "url": "assets/js/11.988e0a5c.js",
-    "revision": "b4ce2601405ed3149b700069d87d28fd"
+    "url": "assets/js/11.6c6de42c.js",
+    "revision": "bc648fd8aceb38898d78abcdab6110ce"
+  },
+  {
+    "url": "assets/js/12.7cf1ce61.js",
+    "revision": "359e7a1e30a1f93840d24f8876bcc243"
   },
   {
     "url": "assets/js/2.4a1785bf.js",
@@ -68,36 +72,36 @@ self.__precacheManifest = [
     "revision": "b004e79dcf84889fe516f7e3b6c3e3e3"
   },
   {
-    "url": "assets/js/5.15737157.js",
-    "revision": "a63fb253768ce1f1280809f6b07269bb"
+    "url": "assets/js/5.aa6d319c.js",
+    "revision": "40d88ca90bc4867f4958aa642cd3cdd3"
   },
   {
     "url": "assets/js/6.2ede514f.js",
     "revision": "8cc548dc2d0519abf3c7541d3a97c112"
   },
   {
-    "url": "assets/js/7.1ee7bdb3.js",
-    "revision": "0e06ebd8b1851279ebdc326e3f59b728"
+    "url": "assets/js/7.2ac24eca.js",
+    "revision": "c319190428d83c0c358ab2ac5f76c31b"
   },
   {
-    "url": "assets/js/8.855ebe93.js",
-    "revision": "fb8b86626ce3a12fae73f88d01c58d00"
+    "url": "assets/js/8.b7a21bd4.js",
+    "revision": "c0bac0f369906905c7066d5e8e2fb0d3"
   },
   {
-    "url": "assets/js/9.b3c8e75d.js",
-    "revision": "21c153763adb2415104b6c70a976e72b"
+    "url": "assets/js/9.94b84285.js",
+    "revision": "3d9b9a64b3ecd6e9f3232476060a038e"
   },
   {
-    "url": "assets/js/app.a390a7bf.js",
-    "revision": "b4b3c8803630c27ce1222f428aba71b8"
+    "url": "assets/js/app.f3aa7ccf.js",
+    "revision": "d4946784bb761cf0d381118863cec33a"
   },
   {
     "url": "club/index.html",
-    "revision": "ad024e64f203da542b0e9e2bcb537ec1"
+    "revision": "276d43c2ffd9f68444197faf6de7b249"
   },
   {
     "url": "contact/index.html",
-    "revision": "70767b4fc945e85ead48f506823adad0"
+    "revision": "c7862ac1094ed907168c7d7070b3134e"
   },
   {
     "url": "icons/android-chrome-192x192.png",
@@ -117,7 +121,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "e986e705bf1be25c12e15270d22681d6"
+    "revision": "5d04d1829d4ed5b356c653b03324c9ff"
   },
   {
     "url": "logo_aude.jpg",
@@ -145,7 +149,11 @@ self.__precacheManifest = [
   },
   {
     "url": "pratique/index.html",
-    "revision": "30e23a02df3842f0da0c8b6681c6f227"
+    "revision": "f9907b55417e5dd38a3eeab8f6f39ce3"
+  },
+  {
+    "url": "sorties/index.html",
+    "revision": "d0a3ba2367fbad5ecfa241abb115d790"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
