@@ -27,6 +27,10 @@ module.exports = {
         link: '/adherer/'
       },
       {
+        text: 'Sorties',
+        link: '/sorties/'
+      },
+      {
         text: 'Nous contacter',
         link: '/contact/'
       }
