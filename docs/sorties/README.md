@@ -11,3 +11,35 @@ Vous trouverez la liste des sorties organisées par le club dans les prochaines 
 ## Inscriptions
 
 Le planning contient en général pour chaque sortie un lien vers la page d'inscription associée. S'il n'est pas disponible rendez-vous sur nos [formulaires d'inscription](https://docs.google.com/spreadsheets/d/13dZUsElSpxh-M1WLNwYloBK5i4iQYgpYDvCaXy6OP8Y) pour le retrouver.
+
+## Stages à venir
+
+### Jeunes - Février 2020
+
+Stage proposé par le [CNA](/).
+
+* **Lieu**: Notre dame du Cros (Caunes Minervois)
+* **Dates**: 17 et 18 février
+* **Horaires et lieu de rdv**: 13h parking Leclerc Castelnaudary (coté station de lavage) retour pour 18h
+* **Transport**: Véhicule 8 places (7 jeunes + monitrice)
+* **Encadrement et responsable de la sortie**: Laurence Combes, monitrice diplômée d'Etat d'escalade
+* **Affaires personnelles à prendre**: petit sac à dos avec gouter, eau, vêtement chaud ou coupe vent  selon météo (si mauvais temps possibilité de se rabattre sur la salle d'escalade de Carcassonne)
+* **Tarif**: 48€ pour les deux aprés-midi (assurance, matériel dont chaussons d'escalade, encadrement et transport)
+
+Paiement à effectuer par CB en ligne, [lien à venir](/xxx).
+
+:::tip
+**Informations complémentaires à fournir:** adresse des parents, personne à prévenir en cas d'urgence et date de naissance de l'enfant pour la licence découverte.
+:::
+
+### Découverte - Février 2020
+
+Stages proposés par le [CAFPA](http://pyreneiste.aude.ffcam.fr/home.html), modalités dans la [fiche descriptive](/stages-hiver-2020-cafpa.pdf).
+
+### Découvert Grandes Voies - Avril 2020
+
+Stage proposé par le [CNA](/), modalités dans la [fiche descriptive](/calanques-decouverte-grandes-voies-08-11-04-2020.pdf).
+
+### Perfectionnement Grandes Voies - Avril 2020
+
+Stage proposé par le [CNA](/), modalités dans la [fiche descriptive](/calanques-perfectionnement-grandes-voies-04-07-04-2020.pdf).

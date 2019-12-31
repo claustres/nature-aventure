@@ -6,7 +6,7 @@ sidebar: auto
 
 ## Présentation
 
-Le club Nature Aventure existe depuis plus de 20 ans et sa motivation à faire découvrir l’activité, former, faire progresser est toujours aussi grande que le premier jour. Il compte une dizaine d’encadrants diplomés, passionnés par leur discipline, et un total d'environ 80 membres. Ils proposent aux licenciés de multiples activités de pleine nature ainsi que des sports d’eau et de montagne : escalade, randonnée pédestre, ski de randonnée, course d'arête, etc. La section compétition brille régulièrement lors des trophés départementaux, régionaux ou même nationaux.
+Le Club Nature Aventure (CNA) existe depuis plus de 20 ans et sa motivation à faire découvrir l’activité, former, faire progresser est toujours aussi grande que le premier jour. Il compte une dizaine d’encadrants diplomés, passionnés par leur discipline, et un total d'environ 80 membres. Ils proposent aux licenciés de multiples activités de pleine nature ainsi que des sports d’eau et de montagne : escalade, randonnée pédestre, ski de randonnée, course d'arête, etc. La section compétition brille régulièrement lors des trophés départementaux, régionaux ou même nationaux.
 
 ::: tip Pour plus d'information sur nos activités ou adhérer
 Consultez la section [En Pratique](/pratique/).
