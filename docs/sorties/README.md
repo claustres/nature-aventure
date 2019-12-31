@@ -36,7 +36,7 @@ Paiement à effectuer par CB en ligne, [lien à venir](/xxx).
 
 Stages proposés par le [CAFPA](http://pyreneiste.aude.ffcam.fr/home.html), modalités dans la [fiche descriptive](/stages-hiver-2020-cafpa.pdf).
 
-### Découvert Grandes Voies - Avril 2020
+### Découverte Grandes Voies - Avril 2020
 
 Stage proposé par le [CNA](/), modalités dans la [fiche descriptive](/calanques-decouverte-grandes-voies-08-11-04-2020.pdf).
 
