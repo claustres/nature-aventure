@@ -40,6 +40,10 @@ Stages proposés par le [CAFPA](http://pyreneiste.aude.ffcam.fr/home.html), moda
 
 Stage proposé par le [CNA](/), modalités dans la [fiche descriptive](/calanques-decouverte-grandes-voies-08-11-04-2020.pdf).
 
+Inscription à faire via notre planning, paiement directement auprès de la monitrice.
+
 ### Perfectionnement Grandes Voies - Avril 2020
 
 Stage proposé par le [CNA](/), modalités dans la [fiche descriptive](/calanques-perfectionnement-grandes-voies-04-07-04-2020.pdf).
+
+Inscription à faire via notre planning, paiement directement auprès de la monitrice.
