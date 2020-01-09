@@ -26,7 +26,7 @@ Stage proposé par le [CNA](/).
 * **Affaires personnelles à prendre**: petit sac à dos avec gouter, eau, vêtement chaud ou coupe vent  selon météo (si mauvais temps possibilité de se rabattre sur la salle d'escalade de Carcassonne)
 * **Tarif**: 48€ pour les deux aprés-midi (assurance, matériel dont chaussons d'escalade, encadrement et transport)
 
-Paiement à effectuer par CB en ligne, [lien à venir](/xxx).
+Paiement à effectuer par CB en ligne en suivant ce [lien](https://www.helloasso.com/associations/club-nature-aventure/evenements/stage-d-escalade-vacances-de-fevrier-2020).
 
 :::tip
 **Informations complémentaires à fournir:** adresse des parents, personne à prévenir en cas d'urgence et date de naissance de l'enfant pour la licence découverte.
