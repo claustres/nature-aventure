@@ -57,8 +57,6 @@ Conjoint d'adhérent | C1 | 96,30€ |
 Enfants d'adhérent</br>(18 à 24 ans) | E1 | 86,30€ |
 Enfants d'adhérent</br>(- 18 ans) | E2 | 80,60€ |
 + de 65 ans et</br>+ de 25 ans de CAF | A1 | 103,10€ |
-Cotisation temporaire </br>(48h) |  |  |  | 13,00€ |
-Cotisation temporaire </br>(24h) |  |  |  | 6,50€ |
 
 ## Communication
 
