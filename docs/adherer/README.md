@@ -21,7 +21,8 @@ L'assurance est obligatoire pour la pratique en club (cours et sorties).
 
 **2. Enregistrez et réglez votre licence avec l'assurance obligatoire sur le site de la Fédération à partir du 2 septembre**
   * Lien à venir
-<!--  * Vous étiez licencié l'an dernier ? Vous pouvez renouveler votre licence [ici](https://extranet-clubalpin.com/renouveler/)
+<!--
+  * Vous étiez licencié l'an dernier ? Vous pouvez renouveler votre licence [ici](https://extranet-clubalpin.com/renouveler/)
   * Vous êtes nouveau ? Alors rendez-vous [ici](https://extranet-clubalpin.com/app/webeff/we_crv2_step01.php?IDCLUB=1141&Hchk=D94fh5Ugroz23RJdSDG5gs45SU55bL).
 -->
 
@@ -29,6 +30,7 @@ L'assurance est obligatoire pour la pratique en club (cours et sorties).
 
 **Enregistrez et réglez uniquement votre licence avec l'assurance obligatoire sur le site de la Fédération à partir du 2 septembre**
   * Lien à venir
-<!--  * Vous étiez licencié l'an dernier ? Vous pouvez renouveler votre licence [ici](https://extranet-clubalpin.com/renouveler/).
+<!--
+  * Vous étiez licencié l'an dernier ? Vous pouvez renouveler votre licence [ici](https://extranet-clubalpin.com/renouveler/).
   * Vous êtes nouveau ? Alors rendez-vous [ici](https://extranet-clubalpin.com/app/webeff/we_crv2_step01.php?IDCLUB=1141&Hchk=D94fh5Ugroz23RJdSDG5gs45SU55bL).
 -->
