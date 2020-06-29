@@ -27,7 +27,7 @@ Les cours ont lieu au Gymnase du [Lycée Germaine Tillion](https://www.google.fr
 | Mercredi de 16h à 17h | 8 à 10 ans *débutants* | Cours |
 | Mercredi de 17h à 18h30 | 9 à 11 ans *initiés* | Cours |
 | Mercredi de 18h30 à 20h | + de 16 ans *débutants* | Cours |
-| Jeudi de 17h30 à 19h | 11 à 15 ans *initiés* | Cours |
+| Jeudi de 17h30 à 19h | 11 à 15 ans *débutants* | Cours |
 | Jeudi de 19h à 21h | + de 16 ans *autonomes* | Libre |
 
 > Un pratiquant est considéré autonome lorsqu'il a atteint le niveau 2 du livret d'escalade.
@@ -50,13 +50,13 @@ Enfants d'adhérent</br>(- 18 ans) | E2 | 82,60€ | 105,00€ | 187,60€ |
 
 Public | Catégorie | Licence avec assurance | 
 | :---: | :---: | :---: |
-+ de 24 ans | T1 | 112,40 € |
-18 à 24 ans | J1 | 97,20€ |
-- de 18 ans | J2 | 92,00€ |
-Conjoint d'adhérent | C1 | 96,30€ |
-Enfants d'adhérent</br>(18 à 24 ans) | E1 | 86,30€ |
-Enfants d'adhérent</br>(- 18 ans) | E2 | 80,60€ |
-+ de 65 ans et</br>+ de 25 ans de CAF | A1 | 103,10€ |
++ de 24 ans | T1 | 114,40 € |
+18 à 24 ans | J1 | 99,20€ |
+- de 18 ans | J2 | 94,00€ |
+Conjoint d'adhérent | C1 | 98,30€ |
+Enfants d'adhérent</br>(18 à 24 ans) | E1 | 88,30€ |
+Enfants d'adhérent</br>(- 18 ans) | E2 | 82,60€ |
++ de 65 ans et</br>+ de 25 ans de CAF | A1 | 105,10€ |
 
 ## Communication
 
