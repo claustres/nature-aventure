@@ -14,6 +14,11 @@ Le planning contient en général pour chaque sortie un lien vers la page d'insc
 
 ## Stages à venir
 
+### Eté 2020
+
+Consulter la liste sur le [site du CAFPA](http://pyreneiste.aude.ffcam.fr/).
+
+<!---
 ### Jeunes - Février 2020
 
 Stage proposé par le [CNA](/).
@@ -47,3 +52,4 @@ Inscription à faire via notre planning, paiement directement auprès de la moni
 Stage proposé par le [CNA](/), modalités dans la [fiche descriptive](/calanques-perfectionnement-grandes-voies-04-07-04-2020.pdf).
 
 Inscription à faire via notre planning, paiement directement auprès de la monitrice.
+-->
