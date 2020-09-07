@@ -12,7 +12,7 @@ Dans le cadre de la pandémie de Coronavirus, et conformément aux recommandatio
 <div class="header">
 <center>
 Accès rapide à nos autres sites internet</br>
-<a href="https://www.facebook.com/Club-Nature-Aventure-1590487804525243/">Facebook</a> - <a href="http://escalade-rando.forumactif.org/">Forum</a> - <a href="https://docs.google.com/spreadsheets/d/1bJdfMZ8-hy7DUY-EpduZLUOfKhXzFJ9aSxLjs6kpHoM">Planning sorties</a> - <a href="https://docs.google.com/spreadsheets/d/13dZUsElSpxh-M1WLNwYloBK5i4iQYgpYDvCaXy6OP8Y">Inscriptions sorties</a>
+<a href="https://www.facebook.com/Club-Nature-Aventure-1590487804525243/">Facebook</a> - <a href="http://escalade-rando.forumactif.org/">Forum</a> - <a href="https://docs.google.com/spreadsheets/d/1zgdZsLVsx-tJ2xHtYbODY7ZQ2WhWAajGGRsAiUmLAZc">Planning sorties</a> - <a href="https://docs.google.com/spreadsheets/d/1t_ANbQ3qfws-DlOwKMkcCUhd-shl13OyY-t9qXojsnU">Inscriptions sorties</a>
 </center>
 </div>
 
