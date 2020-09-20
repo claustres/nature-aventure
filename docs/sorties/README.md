@@ -14,9 +14,13 @@ Le planning contient en général pour chaque sortie un lien vers la page d'insc
 
 ## Stages à venir
 
-### Eté 2020
+### Multi-activités - Toussaint 2020
 
-Consulter la liste sur le [site du CAFPA](http://pyreneiste.aude.ffcam.fr/).
+Stage proposé par le [CNA](/), modalités dans la [fiche descriptive](/stage-multi-toussaint-2020.pdf).
+
+### Grandes Voies - Toussaint 2020
+
+Stage proposé par le [CNA](/), modalités dans la [fiche descriptive](/stage-escalade-ariege-24-10-2020.pdf).
 
 <!---
 ### Jeunes - Février 2020
