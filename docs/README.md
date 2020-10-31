@@ -7,7 +7,7 @@ footer: Tous droits réservés - Club Nature-Aventure
 ---
 
 ::: danger Information Coronavirus
-Dans le cadre de la pandémie de Coronavirus, et conformément aux recommandations de nos fédérations, nos cours et sorties reprennent à partir de Septembre 2020 mais nécessitent le respect d'un [protocole sanitaire](/protocole_sanitaire_covid19.pdf).
+Dans le cadre de la pandémie de Coronavirus, et conformément aux dispositions nationales, tous nos cours et sorties sont annulés jusqu'à nouvel ordre. Consultez ce site ou notre page <a href="https://www.facebook.com/Club-Nature-Aventure-1590487804525243/">Facebook</a> de façon régulière pour vous tenir informé du retour à la normale, merci de votre compréhension.
 :::
 <div class="header">
 <center>
