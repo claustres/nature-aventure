@@ -14,13 +14,17 @@ Le planning contient en général pour chaque sortie un lien vers la page d'insc
 
 ## Stages à venir
 
-### Multi-activités - Toussaint 2020
+### Découverte Grandes Voies - Avril 2021
 
-Stage proposé par le [CNA](/), modalités dans la [fiche descriptive](/stage-multi-toussaint-2020.pdf).
+Stage proposé par le [CNA](/), modalités dans la [fiche descriptive](/calanques-decouverte-grandes-voies-21-24-04-2020.pdf).
 
-### Grandes Voies - Toussaint 2020
+Inscription à faire via notre planning, paiement directement auprès de la monitrice.
 
-Stage proposé par le [CNA](/), modalités dans la [fiche descriptive](/stage-escalade-ariege-24-10-2020.pdf).
+### Perfectionnement Grandes Voies - Avril 2021
+
+Stage proposé par le [CNA](/), modalités dans la [fiche descriptive](/calanques-perfectionnement-grandes-voies-17-21-04-2020.pdf).
+
+Inscription à faire via notre planning, paiement directement auprès de la monitrice.
 
 <!---
 ### Jeunes - Février 2020
