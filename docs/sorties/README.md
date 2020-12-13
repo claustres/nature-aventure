@@ -16,13 +16,13 @@ Le planning contient en général pour chaque sortie un lien vers la page d'insc
 
 ### Découverte Grandes Voies - Avril 2021
 
-Stage proposé par le [CNA](/), modalités dans la [fiche descriptive](/calanques-decouverte-grandes-voies-21-24-04-2020.pdf).
+Stage proposé par le [CNA](/), modalités dans la [fiche descriptive](/calanques-decouverte-grandes-voies-21-24-04-2021.pdf).
 
 Inscription à faire via notre planning, paiement directement auprès de la monitrice.
 
 ### Perfectionnement Grandes Voies - Avril 2021
 
-Stage proposé par le [CNA](/), modalités dans la [fiche descriptive](/calanques-perfectionnement-grandes-voies-17-21-04-2020.pdf).
+Stage proposé par le [CNA](/), modalités dans la [fiche descriptive](/calanques-perfectionnement-grandes-voies-17-21-04-2021.pdf).
 
 Inscription à faire via notre planning, paiement directement auprès de la monitrice.
 
