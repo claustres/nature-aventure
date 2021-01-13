@@ -26,6 +26,12 @@ Stage proposé par le [CNA](/), modalités dans la [fiche descriptive](/calanque
 
 Inscription à faire via notre planning, paiement directement auprès de la monitrice.
 
+### Escalade Jeunes - Avril 2021
+
+Stage proposé par le [CNA](/), modalités dans la [fiche descriptive](/stage-escalade-ariege-28-30-04-2021.pdf).
+
+Inscription à faire via notre planning, paiement directement auprès de la monitrice.
+
 <!---
 ### Jeunes - Février 2020
 
