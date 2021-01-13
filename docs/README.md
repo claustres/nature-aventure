@@ -7,7 +7,7 @@ footer: Tous droits réservés - Club Nature-Aventure
 ---
 
 ::: danger Information Coronavirus
-Dans le cadre de la pandémie de Coronavirus, et conformément aux dispositions nationales, tous nos cours et sorties sont annulés jusqu'à nouvel ordre. Consultez ce site ou notre page <a href="https://www.facebook.com/Club-Nature-Aventure-1590487804525243/">Facebook</a> de façon régulière pour vous tenir informé du retour à la normale, merci de votre compréhension.
+Dans le cadre de la pandémie de Coronavirus, et conformément aux dispositions nationales, nos cours adultes sont annulés jusqu'à nouvel ordre. Les cours enfants et les sorties pour tous ont repris. Consultez ce site ou notre page <a href="https://www.facebook.com/Club-Nature-Aventure-1590487804525243/">Facebook</a> de façon régulière pour vous tenir informé du retour à la normale, merci de votre compréhension.
 :::
 <div class="header">
 <center>
