@@ -2,17 +2,25 @@
 sidebar: auto
 ---
 
-# Sorties
+# Planning
 
-## Planning
+## Sorties
 
 Vous trouverez la liste des sorties organisées par le club dans les prochaines semaines sur notre [planning](https://docs.google.com/spreadsheets/d/1zgdZsLVsx-tJ2xHtYbODY7ZQ2WhWAajGGRsAiUmLAZc).
 
-## Inscriptions
+Il contient en général pour chaque sortie un lien vers la page d'inscription associée. S'il n'est pas disponible rendez-vous sur nos [formulaires d'inscription](https://docs.google.com/spreadsheets/d/1t_ANbQ3qfws-DlOwKMkcCUhd-shl13OyY-t9qXojsnU) pour le retrouver.
 
-Le planning contient en général pour chaque sortie un lien vers la page d'inscription associée. S'il n'est pas disponible rendez-vous sur nos [formulaires d'inscription](https://docs.google.com/spreadsheets/d/1t_ANbQ3qfws-DlOwKMkcCUhd-shl13OyY-t9qXojsnU) pour le retrouver.
+## Stages
 
-## Stages à venir
+### Multi-activités - Mai 2021
+
+Stage proposé par le [CNA](/) et le [CAFPA](/), modalités dans la [fiche descriptive](/stage-multi-activite-pentecote-2021).
+
+Inscription à faire par email directement auprès du moniteur.
+
+::: danger Note
+Les stages suivants sont remis à une date ultérieure cause COVID19
+:::
 
 ### Découverte Grandes Voies - Avril 2021
 
@@ -31,6 +39,24 @@ Inscription à faire via notre planning, paiement directement auprès de la moni
 Stage proposé par le [CNA](/), modalités dans la [fiche descriptive](/stage-escalade-ariege-28-30-04-2021.pdf).
 
 Inscription à faire via notre planning, paiement directement auprès de la monitrice.
+
+## Formations
+
+Contact Laurence Combes: 06 03 50 00 85
+
+### Niveau 5 - Dimanche 6 Juin 2021 à 10h
+
+Autonomie falaise à ND du cros sur la journée, participation de 15€.
+
+Matériel à prévoir: Baudrier avec longe, système d'assurage, autobloquant pour descente en rappel, casque, dégaines, corde.
+
+### Initiateur SAE - 11 et 12 Septembre 2021
+
+*Informations à venir*
+
+### Initiateur SNE - 18 et 19 Septembre 2021
+
+*Informations à venir*
 
 <!---
 ### Jeunes - Février 2020
