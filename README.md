@@ -1,6 +1,6 @@
 ## Site du Club Nature-Aventure de Castelnaudary
 
-[![Build Status](https://travis-ci.org/claustres/nature-aventure.png?branch=master)](https://travis-ci.org/claustres/nature-aventure)
+[![Build Status](https://travis-ci.com/claustres/nature-aventure.png?branch=master)](https://travis-ci.com/claustres/nature-aventure)
 
 > Réalisé avec [VuePress](https://vuepress.vuejs.org) et le thème https://github.com/claustres/vuepress-theme-nature-aventure.
 
