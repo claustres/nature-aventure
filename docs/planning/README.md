@@ -12,6 +12,16 @@ Il contient en général pour chaque sortie un lien vers la page d'inscription a
 
 ## Stages
 
+### Multi-activités - Juin 2021
+
+Comme chaque année, nous organisons un stage multi-activités réservé aux membres du [CNA](/) (ados de plus de 16 ans et adultes). Cette année, il se déroulera le 12 et 13 juin autour d'Alliat (09).
+
+Au programme: escalade en falaise, en bloc, via ferrata, randonnée. Nous dormirons en chalet au camping des Grottes à Alliat. Le coûtest de 50€ par participant (encadrement, hébergement, repas du soir, location de matériel).
+
+Vous devez prévoir le pique nique du samedi et dimanche, le petit déjeuner, un accompagnement au repas ou apéro si vous le souhaitez, le co-voiturage et le nécessaire de couchage.
+
+Inscription à faire via notre [formulaire d'inscription](https://docs.google.com/spreadsheets/d/1t_ANbQ3qfws-DlOwKMkcCUhd-shl13OyY-t9qXojsnU).
+
 ### Multi-activités - Mai 2021
 
 Stage proposé par le [CNA](/) et le [CAFPA](/), modalités dans la [fiche descriptive](/stage-multi-activite-pentecote-2021).
