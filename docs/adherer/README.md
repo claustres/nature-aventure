@@ -14,8 +14,8 @@ L'assurance est obligatoire pour la pratique en club (cours et sorties).
 
 ## Vous êtes grimpeuse ou grimpeur
 
-**1. Enregistrez et réglez votre adhésion à l'école d'escalade à partir du 29 juin**
- * Pour cela rendez-vous sur notre [page d'adhésion](https://bit.ly/2AaMcPi)
+**1. Enregistrez et réglez votre adhésion à l'école d'escalade à partir du 21 juin**
+ * Pour cela rendez-vous sur notre [page d'adhésion](https://tinyurl.com/3jjb75fy)
 <!--iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/club-nature-aventure/adhesions/ecole-d-escalade/widget-vignette-horizontale" style="width:800px;height:400px;border:none;"></iframe>
 <div style="width:100%;text-align:center;">Propulsé par <a href="https://www.helloasso.com" rel="nofollow">HelloAsso</a></div-->
 

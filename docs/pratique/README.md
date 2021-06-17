@@ -15,7 +15,7 @@ Plusieurs actions tout au long de l’année :
 * Passage des UF (attestation de niveau d’autonomie dans la pratique de l’escalade) tout au long de l’année pour les licenciés d’escalade.
 * Participation aux compétitions départementale, régionale et nationale d’escalade.
 
-## Cours
+## Cours 2020
 
 Les cours ont lieu au Gymnase du [Lycée Germaine Tillion](https://www.google.fr/maps?q=Lyc%C3%A9e+Germaine+Tillion+1+rue+du+Campus+Jean+Durand+11493+Castelnaudary&rlz=1C1CHBF_frFR774FR774&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjD3c7q2e7aAhXLK8AKHasbAkkQ_AUoAXoECAAQAw) toutes les semaines (hors vacances scolaires) à partir du **14 septembre 2020**:
 
@@ -32,7 +32,7 @@ Les cours ont lieu au Gymnase du [Lycée Germaine Tillion](https://www.google.fr
 
 > Un pratiquant est considéré autonome lorsqu'il a atteint le niveau 2 du livret d'escalade.
 
-## Tarifs
+## Tarifs 2020
 
 ### Escalade
 
