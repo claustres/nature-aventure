@@ -2,7 +2,7 @@
 home: true
 heroImage: /accueil.png
 actionText: C'est par là →
-actionLink: /club/
+actionLink: /planning/
 footer: Tous droits réservés - Club Nature-Aventure
 ---
 
@@ -12,7 +12,7 @@ Dans le cadre de la pandémie de Coronavirus, et conformément aux dispositions 
 <div class="header">
 <center>
 Accès rapide à nos autres sites internet</br>
-<a href="https://www.facebook.com/Club-Nature-Aventure-1590487804525243/">Facebook</a> - <a href="http://escalade-rando.forumactif.org/">Forum</a> - <a href="https://docs.google.com/spreadsheets/d/1zgdZsLVsx-tJ2xHtYbODY7ZQ2WhWAajGGRsAiUmLAZc">Planning</a> & <a href="https://docs.google.com/spreadsheets/d/1t_ANbQ3qfws-DlOwKMkcCUhd-shl13OyY-t9qXojsnU">Inscriptions</a> aux sorties
+<a href="https://www.facebook.com/Club-Nature-Aventure-1590487804525243/">Facebook</a> - <a href="http://escalade-rando.forumactif.org/">Forum</a> - <a href="https://docs.google.com/spreadsheets/d/1t_ANbQ3qfws-DlOwKMkcCUhd-shl13OyY-t9qXojsnU">Inscriptions</a> aux sorties
 </center>
 </div>
 

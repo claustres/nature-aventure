@@ -12,21 +12,17 @@ Il contient en général pour chaque sortie un lien vers la page d'inscription a
 
 ## Stages
 
-### Multi-activités - Juin 2021
+### Multi-activités - Juillet 2021
 
-Comme chaque année, nous organisons un stage multi-activités réservé aux membres du [CNA](/) (ados de plus de 16 ans et adultes). Cette année, il se déroulera les 12 et 13 juin autour d'Alliat (09).
-
-Au programme: escalade en falaise, en bloc, via ferrata, randonnée. Nous dormirons en chalet au camping des Grottes à Alliat. Le coût est de 50€ par participant (encadrement, hébergement, repas du soir, location de matériel).
-
-Vous devez prévoir le pique nique du samedi et dimanche, le petit déjeuner, un accompagnement au repas ou apéro si vous le souhaitez, le co-voiturage et le nécessaire de couchage.
-
-Inscription à faire via notre [formulaire d'inscription](https://docs.google.com/spreadsheets/d/1t_ANbQ3qfws-DlOwKMkcCUhd-shl13OyY-t9qXojsnU/#gid=357418679).
-
-### Multi-activités - Mai 2021
-
-Stage proposé par le [CNA](/) et le [CAFPA](/), modalités dans la [fiche descriptive](/stage-multi-activite-pentecote-2021).
+Stage proposé par le [CNA](/) et le [CAFPA](/), modalités dans la [fiche descriptive](/stage-multi-activite-07-09-06-2021.jpg).
 
 Inscription à faire par email directement auprès du moniteur.
+
+### Canyoning - Juillet 2021
+
+Stage proposé par le [CNA](/) et le [CAFPA](/), modalités dans la [fiche descriptive](/stage-canyon-30-31-06-2021.pdf).
+
+Inscription à faire par email directement auprès de la monitrice.
 
 ::: danger Note
 Les stages suivants sont remis à une date ultérieure cause COVID19
@@ -53,12 +49,6 @@ Inscription à faire via notre planning, paiement directement auprès de la moni
 ## Formations
 
 Contact Laurence Combes: 06 03 50 00 85
-
-### Niveau 5 - Dimanche 6 Juin 2021 à 10h
-
-Autonomie falaise à ND du cros sur la journée, participation de 15€.
-
-Matériel à prévoir: Baudrier avec longe, système d'assurage, autobloquant pour descente en rappel, casque, dégaines, corde.
 
 ### Initiateur SAE - 11 et 12 Septembre 2021
 
