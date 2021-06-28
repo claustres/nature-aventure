@@ -32,31 +32,31 @@ Les cours ont lieu au Gymnase du [Lycée Germaine Tillion](https://www.google.fr
 
 > Un pratiquant est considéré autonome lorsqu'il a atteint le niveau 2 du livret d'escalade.
 
-## Tarifs 2020
+## Tarifs 2021
 
 ### Escalade
 
 Public | Catégorie | Licence avec assurance | Ecole d'escalade | Total |
 | :---: | :---: | :---: | :---: | :---: |
-+ de 24 ans | T1 | 114,40 € | 105,00€ | 219,40€ |
-18 à 24 ans | J1 | 99,20€ | 105,00€ | 204,20€ |
-- de 18 ans | J2 | 94,00€ | 105,00€ | 199,00€ |
-Conjoint d'adhérent | C1 | 98,30€ | 105,00€ | 203,30€ |
-Enfants d'adhérent</br>(18 à 24 ans) | E1 | 88,30€ | 105,00€ | 193,30€ |
-Enfants d'adhérent</br>(- 18 ans) | E2 | 82,60€ | 105,00€ | 187,60€ |
-+ de 65 ans et</br>+ de 25 ans de CAF | A1 | 105,10€ | 105,00€ | 210,10€ |
++ de 24 ans | T1 | 115,10 € | 105,00€ | 220,10€ |
+18 à 24 ans | J1 | 99,90€ | 105,00€ | 204,90€ |
+- de 18 ans | J2 | 94,70€ | 105,00€ | 199,70€ |
+Conjoint d'adhérent | C1 | 99,00€ | 105,00€ | 204,00€ |
+Enfants d'adhérent</br>(18 à 24 ans) | E1 | 89,00€ | 105,00€ | 194,00€ |
+Enfants d'adhérent</br>(- 18 ans) | E2 | 83,30€ | 105,00€ | 188,30€ |
++ de 65 ans et</br>+ de 25 ans de CAF | A1 | 105,80€ | 105,00€ | 210,80€ |
 
 ### Randonnée
 
 Public | Catégorie | Licence avec assurance | 
 | :---: | :---: | :---: |
-+ de 24 ans | T1 | 114,40 € |
-18 à 24 ans | J1 | 99,20€ |
-- de 18 ans | J2 | 94,00€ |
-Conjoint d'adhérent | C1 | 98,30€ |
-Enfants d'adhérent</br>(18 à 24 ans) | E1 | 88,30€ |
-Enfants d'adhérent</br>(- 18 ans) | E2 | 82,60€ |
-+ de 65 ans et</br>+ de 25 ans de CAF | A1 | 105,10€ |
++ de 24 ans | T1 | 115,10 € |
+18 à 24 ans | J1 | 99,90€ |
+- de 18 ans | J2 | 94,70€ |
+Conjoint d'adhérent | C1 | 99,00€ |
+Enfants d'adhérent</br>(18 à 24 ans) | E1 | 89,00€ |
+Enfants d'adhérent</br>(- 18 ans) | E2 | 83,30€ |
++ de 65 ans et</br>+ de 25 ans de CAF | A1 | 105,80€ |
 
 ## Communication
 
