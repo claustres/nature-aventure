@@ -6,13 +6,10 @@ actionLink: /planning/
 footer: Tous droits réservés - Club Nature-Aventure
 ---
 
-::: danger Information Coronavirus
-Dans le cadre de la pandémie de Coronavirus, et conformément aux dispositions nationales, nos cours sont annulés jusqu'à nouvel ordre. Les sorties en extérieur sont quant à elles maintenues. Consultez ce site ou notre page <a href="https://www.facebook.com/Club-Nature-Aventure-1590487804525243/">Facebook</a> de façon régulière pour vous tenir informé du retour à la normale, merci de votre compréhension.
-:::
 <div class="header">
 <center>
 Accès rapide à nos autres sites internet</br>
-<a href="https://www.facebook.com/Club-Nature-Aventure-1590487804525243/">Facebook</a> - <a href="http://escalade-rando.forumactif.org/">Forum</a> - <a href="https://docs.google.com/spreadsheets/d/1t_ANbQ3qfws-DlOwKMkcCUhd-shl13OyY-t9qXojsnU">Inscriptions</a> aux sorties
+<a href="https://www.facebook.com/Club-Nature-Aventure-1590487804525243/">Facebook</a> - <a href="http://escalade-rando.forumactif.org/">Forum</a> - <a href="https://docs.google.com/spreadsheets/d/1t_ANbQ3qfws-DlOwKMkcCUhd-shl13OyY-t9qXojsnU">Inscriptions</a> aux sorties - <a href="https://docs.google.com/spreadsheets/d/1NqfPB2b5EaNAim-PlklYo5Ytr7gYC0_Tzl8CFB0zEqk">Ventes</a>
 </center>
 </div>
 
