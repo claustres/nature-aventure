@@ -64,8 +64,8 @@ Enfants d'adhérent</br>(- 18 ans) | E2 | 83,30€ |
 Nous utilisons plusieurs canaux de communication afin de maintenir nos membres informés et coordonner nos activités:
 * Notre [page Facebook](https://www.facebook.com/Club-Nature-Aventure-1590487804525243/), notamment pour l'organisation et les résultats des compétitions.
 * Notre [forum de discussions](http://escalade-rando.forumactif.org/), notamment pour le détail de l'organisation et le compte-rendu des sorties (nécessite la création d'un compte utilisateur).
-* Notre [planning](https://docs.google.com/spreadsheets/d/1zgdZsLVsx-tJ2xHtYbODY7ZQ2WhWAajGGRsAiUmLAZc) pour la liste et les dates des sorties prévues.
-* Nos [fiches d'inscription](https://docs.google.com/spreadsheets/d/1t_ANbQ3qfws-DlOwKMkcCUhd-shl13OyY-t9qXojsnU) pour réserver votre place lors des sorties.
+* Notre [planning](https://docs.google.com/spreadsheets/d/1QHKL_DkvibVwh7iwiAAmiIR6HJ4I3zBX1wuB1pN_f1I) pour la liste et les dates des sorties prévues.
+* Nos [fiches d'inscription](https://docs.google.com/spreadsheets/d/1CCxeQNFOBg8ZPvDOf0c29eBKt6JQeM9VHBF4OBSsbiM) pour réserver votre place lors des sorties.
 
 
 
