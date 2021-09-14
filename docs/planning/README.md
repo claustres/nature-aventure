@@ -12,6 +12,31 @@ Il contient en général pour chaque sortie un lien vers la page d'inscription a
 
 ## Stages
 
+### Découverte Grandes Voies - Novembre 2021
+
+Stage proposé par le [CNA](/), modalités dans la [fiche descriptive](/calanques-decouverte-grandes-voies-03-06-11-2021.pdf).
+
+Inscription et paiement directement auprès de la monitrice.
+
+### Perfectionnement Grandes Voies - Novembre 2021
+
+Stage proposé par le [CNA](/), modalités dans la [fiche descriptive](/calanques-perfectionnement-grandes-voies-30-02-11-2021.pdf).
+
+Inscription et paiement directement auprès de la monitrice.
+
+## Formations
+
+Contact Laurence Combes: 06 03 50 00 85
+
+### Initiateur SAE
+
+*Informations à venir*
+
+### Initiateur SNE
+
+*Informations à venir*
+
+<!--
 ### Multi-activités - Juillet 2021
 
 Stage proposé par le [CNA](/) et le [CAFPA](/), modalités dans la [fiche descriptive](/stage-multi-activite-07-09-06-2021.jpg).
@@ -28,37 +53,12 @@ Inscription à faire par email directement auprès de la monitrice.
 Les stages suivants sont remis à une date ultérieure cause COVID19
 :::
 
-### Découverte Grandes Voies - Avril 2021
-
-Stage proposé par le [CNA](/), modalités dans la [fiche descriptive](/calanques-decouverte-grandes-voies-21-24-04-2021.pdf).
-
-Inscription à faire via notre planning, paiement directement auprès de la monitrice.
-
-### Perfectionnement Grandes Voies - Avril 2021
-
-Stage proposé par le [CNA](/), modalités dans la [fiche descriptive](/calanques-perfectionnement-grandes-voies-17-21-04-2021.pdf).
-
-Inscription à faire via notre planning, paiement directement auprès de la monitrice.
-
 ### Escalade Jeunes - Avril 2021
 
 Stage proposé par le [CNA](/), modalités dans la [fiche descriptive](/stage-escalade-ariege-28-30-04-2021.pdf).
 
 Inscription à faire via notre planning, paiement directement auprès de la monitrice.
 
-## Formations
-
-Contact Laurence Combes: 06 03 50 00 85
-
-### Initiateur SAE - 11 et 12 Septembre 2021
-
-*Informations à venir*
-
-### Initiateur SNE - 18 et 19 Septembre 2021
-
-*Informations à venir*
-
-<!---
 ### Jeunes - Février 2020
 
 Stage proposé par le [CNA](/).

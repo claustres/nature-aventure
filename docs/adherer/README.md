@@ -4,8 +4,8 @@ sidebar: auto
 
 # Adhérer
 
-::: warning Attention
-Le nombre de places disponibles en *escalade* étant limité les inscriptions seront traitées selon l'ordre d'arrivée.
+::: warning Note
+L'adhésion au Club Nature Aventure vaut acceptation de son [règlement intérieur](/reglement-interieur.pdf).
 :::
 
 ::: danger Rappel
@@ -23,6 +23,10 @@ L'assurance est obligatoire pour la pratique en club (cours et sorties).
   
   * Vous étiez licencié l'an dernier ? Vous pouvez renouveler votre licence via votre [espace personnel FFCAM](https://extranet-clubalpin.com/monespace/)
   * Vous êtes nouveau ? Alors rendez-vous [ici](https://extranet-clubalpin.com/app/webeff/we_crv2_step01.php?IDCLUB=1141&Hchk=D94fh5Ugroz23RJdSDG5gs45SU55bL).
+
+::: warning Attention
+Le nombre de places disponibles en *escalade* étant limité les inscriptions seront traitées selon l'ordre d'arrivée.
+:::
 
 ## Vous êtes randonneuse ou randonneur
 
