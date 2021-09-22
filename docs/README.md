@@ -2,14 +2,15 @@
 home: true
 heroImage: /accueil.png
 actionText: C'est par là →
-actionLink: /planning/
+actionLink: /club/
 footer: Tous droits réservés - Club Nature-Aventure
 ---
 
 <div class="header">
 <center>
-Accès rapide à nos autres sites internet</br>
-<a href="https://www.facebook.com/Club-Nature-Aventure-1590487804525243/">Facebook</a> - <a href="http://escalade-rando.forumactif.org/">Forum</a> - <a href="https://docs.google.com/spreadsheets/d/1CCxeQNFOBg8ZPvDOf0c29eBKt6JQeM9VHBF4OBSsbiM">Inscriptions</a> aux sorties - <a href="https://docs.google.com/spreadsheets/d/1NqfPB2b5EaNAim-PlklYo5Ytr7gYC0_Tzl8CFB0zEqk">Ventes</a>
+<b>Liens vers nos autres sites:</b></br>
+<a href="https://docs.google.com/spreadsheets/d/1QHKL_DkvibVwh7iwiAAmiIR6HJ4I3zBX1wuB1pN_f1I">Planning</a> et <a href="https://docs.google.com/spreadsheets/d/1CCxeQNFOBg8ZPvDOf0c29eBKt6JQeM9VHBF4OBSsbiM">Inscriptions</a> aux sorties</br>
+<a href="https://www.facebook.com/Club-Nature-Aventure-1590487804525243/">Facebook</a> - <a href="http://escalade-rando.forumactif.org/">Forum</a> - <a href="https://docs.google.com/spreadsheets/d/1NqfPB2b5EaNAim-PlklYo5Ytr7gYC0_Tzl8CFB0zEqk">Vente d'équipements</a>
 </center>
 </div>
 
