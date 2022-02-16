@@ -18,7 +18,7 @@ Stage proposé par le [CNA](/), modalités dans la [fiche descriptive](/riglos-d
 
 Inscription et paiement directement auprès de la monitrice.
 
-### Perfectionnement Grandes Voies - Novembre 2021
+### Perfectionnement Grandes Voies - Mai 2022
 
 Stage proposé par le [CNA](/), modalités dans la [fiche descriptive](/riglos-perfectionnement-grandes-voies-30-04-05-2022.pdf).
 
