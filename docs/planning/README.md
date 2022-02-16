@@ -12,15 +12,15 @@ Il contient en général pour chaque sortie un lien vers la page d'inscription a
 
 ## Stages
 
-### Découverte Grandes Voies - Novembre 2021
+### Découverte Grandes Voies - Avril 2022
 
-Stage proposé par le [CNA](/), modalités dans la [fiche descriptive](/calanques-decouverte-grandes-voies-03-06-11-2021.pdf).
+Stage proposé par le [CNA](/), modalités dans la [fiche descriptive](/riglos-decouverte-grandes-voies-23-26-04-2022.pdf).
 
 Inscription et paiement directement auprès de la monitrice.
 
 ### Perfectionnement Grandes Voies - Novembre 2021
 
-Stage proposé par le [CNA](/), modalités dans la [fiche descriptive](/calanques-perfectionnement-grandes-voies-30-02-11-2021.pdf).
+Stage proposé par le [CNA](/), modalités dans la [fiche descriptive](/riglos-perfectionnement-grandes-voies-30-04-05-2022.pdf).
 
 Inscription et paiement directement auprès de la monitrice.
 
@@ -30,7 +30,7 @@ Contact Laurence Combes: 06 03 50 00 85
 
 ### Initiateur SAE
 
-*Informations à venir*
+5, 6 et 12 Mars à la Salle Nicole Aber de Carcassonne.
 
 ### Initiateur SNE
 
