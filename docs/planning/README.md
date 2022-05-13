@@ -12,8 +12,6 @@ Il contient en général pour chaque sortie un lien vers la page d'inscription a
 
 ## Stages
 
-stage-canyon-05-07-07-2022.pdf
-
 ### Canyoning - Juillet 2022
 
 Stage proposé par le [CNA](/) et le [CAFPA](/), modalités dans la [fiche descriptive](/stage-canyon-05-07-07-2022.pdf).
