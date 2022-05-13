@@ -12,6 +12,27 @@ Il contient en général pour chaque sortie un lien vers la page d'inscription a
 
 ## Stages
 
+stage-canyon-05-07-07-2022.pdf
+
+### Canyoning - Juillet 2022
+
+Stage proposé par le [CNA](/) et le [CAFPA](/), modalités dans la [fiche descriptive](/stage-canyon-05-07-07-2022.pdf).
+
+Inscription à faire par téléphone directement auprès de la monitrice.
+
+## Formations
+
+Contact Laurence Combes: 06 03 50 00 85
+
+### Initiateur SAE
+
+*Informations à venir*
+
+### Initiateur SNE
+
+*Informations à venir*
+
+<!--
 ### Découverte Grandes Voies - Avril 2022
 
 Stage proposé par le [CNA](/), modalités dans la [fiche descriptive](/riglos-decouverte-grandes-voies-23-26-04-2022.pdf).
@@ -24,19 +45,6 @@ Stage proposé par le [CNA](/), modalités dans la [fiche descriptive](/riglos-p
 
 Inscription et paiement directement auprès de la monitrice.
 
-## Formations
-
-Contact Laurence Combes: 06 03 50 00 85
-
-### Initiateur SAE
-
-5, 6 et 12 Mars à la Salle Nicole Aber de Carcassonne.
-
-### Initiateur SNE
-
-*Informations à venir*
-
-<!--
 ### Multi-activités - Juillet 2021
 
 Stage proposé par le [CNA](/) et le [CAFPA](/), modalités dans la [fiche descriptive](/stage-multi-activite-07-09-06-2021.jpg).
