@@ -15,25 +15,25 @@ Plusieurs actions tout au long de l’année :
 * Passage des UF (attestation de niveau d’autonomie dans la pratique de l’escalade) tout au long de l’année pour les licenciés d’escalade.
 * Participation aux compétitions départementale, régionale et nationale d’escalade.
 
-## Cours 2021
+## Cours 2022-2023
 
-Les cours ont lieu au Gymnase du [Lycée Germaine Tillion](https://www.google.fr/maps?q=Lyc%C3%A9e+Germaine+Tillion+1+rue+du+Campus+Jean+Durand+11493+Castelnaudary&rlz=1C1CHBF_frFR774FR774&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjD3c7q2e7aAhXLK8AKHasbAkkQ_AUoAXoECAAQAw) toutes les semaines (hors vacances scolaires) à partir du **13 septembre 2021**:
+Les cours ont lieu au Gymnase du [Lycée Germaine Tillion](https://www.google.fr/maps?q=Lyc%C3%A9e+Germaine+Tillion+1+rue+du+Campus+Jean+Durand+11493+Castelnaudary&rlz=1C1CHBF_frFR774FR774&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjD3c7q2e7aAhXLK8AKHasbAkkQ_AUoAXoECAAQAw) toutes les semaines (hors vacances scolaires) à partir du **12 septembre 2022**:
 
 | Horaire | Public | Contenu |
 | :---: | :---: | :---: |
 | Lundi de 18h30 à 20h15 | + de 16 ans *autonomes* | Perfectionnement |
 | Lundi de 20h15 à 21h15 | + de 16 ans *autonomes* | Renforcement musculaire |
-| Mardi de 17h30 à 19h15 | 11 à 15 ans *initiés* | Cours |
-| Mardi de 19h15 à 21h | 11 à 15 ans *débutants* | Cours |
+| Mardi de 17h30 à 19h15 | 11 à 15 ans *initiés (+ de 2 ans)* | Cours |
+| Mardi de 19h15 à 21h | 11 à 15 ans *initiés (+ de 3 ans)* | Perfectionnement |
 | Mercredi de 15h30 à 17h | 8 à 10 ans *débutants* | Cours |
 | Mercredi de 17h à 18h30 | 9 à 11 ans *initiés* | Cours |
-| Mercredi de 18h30 à 20h | + de 16 ans *débutants* | Cours |
+| Mercredi de 18h30 à 20h | + de 16 ans *initiés* | Cours |
 | Jeudi de 17h30 à 19h | 11 à 15 ans *débutants* | Cours |
-| Jeudi de 19h à 21h | + de 16 ans *autonomes* | Libre |
+| Jeudi de 19h à 21h | + de 16 ans *autonomes* | Cours/Libre |
 
 > Un pratiquant est considéré autonome lorsqu'il a atteint le niveau 2 du livret d'escalade.
 
-## Tarifs 2021
+## Tarifs 2021-2022
 
 ### Escalade
 
