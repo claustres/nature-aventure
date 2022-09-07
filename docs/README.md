@@ -9,7 +9,7 @@ footer: Tous droits réservés - Club Nature-Aventure
 <div class="header">
 <center>
 <b>Liens vers nos autres sites:</b></br>
-<a href="https://docs.google.com/spreadsheets/d/1QHKL_DkvibVwh7iwiAAmiIR6HJ4I3zBX1wuB1pN_f1I">Planning</a> et <a href="https://docs.google.com/spreadsheets/d/1CCxeQNFOBg8ZPvDOf0c29eBKt6JQeM9VHBF4OBSsbiM">Inscriptions</a> aux sorties</br>
+<a href="https://docs.google.com/spreadsheets/d/1Zff75GC6WMVLV0GLEnN4KtGUZBOnSbtEsIxS9sJ_1Qo">Planning</a> et <a href="https://docs.google.com/spreadsheets/d/1fEids5qHe09e8Rbde2C6iMA9oziWBK_y_iyVdncCVHMhttps://docs.google.com/spreadsheets/d/1fEids5qHe09e8Rbde2C6iMA9oziWBK_y_iyVdncCVHM">Inscriptions</a> aux sorties</br>
 <a href="https://www.facebook.com/Club-Nature-Aventure-1590487804525243/">Facebook</a> - <a href="http://escalade-rando.forumactif.org/">Forum</a> - <a href="https://docs.google.com/spreadsheets/d/1NqfPB2b5EaNAim-PlklYo5Ytr7gYC0_Tzl8CFB0zEqk">Vente d'équipements</a>
 </center>
 </div>
