@@ -12,11 +12,11 @@ Il contient en général pour chaque sortie un lien vers la page d'inscription a
 
 ## Stages
 
-### Canyoning - Juillet 2022
+### Perfectionnement Falaise et Grande Voie - Octobre 2022
 
-Stage proposé par le [CNA](/) et le [CAFPA](/), modalités dans la [fiche descriptive](/stage-canyon-05-07-07-2022.pdf).
+Stage proposé par le [CNA](/), modalités dans la [fiche descriptive](/stage-escalade-organya-29-10-2022.pdf).
 
-Inscription à faire par téléphone directement auprès de la monitrice.
+Inscription et paiement directement auprès de la monitrice.
 
 ## Formations
 
@@ -31,6 +31,12 @@ Contact Laurence Combes: 06 03 50 00 85
 *Informations à venir*
 
 <!--
+### Canyoning - Juillet 2022
+
+Stage proposé par le [CNA](/) et le [CAFPA](/), modalités dans la [fiche descriptive](/stage-canyon-05-07-07-2022.pdf).
+
+Inscription à faire par téléphone directement auprès de la monitrice.
+
 ### Découverte Grandes Voies - Avril 2022
 
 Stage proposé par le [CNA](/), modalités dans la [fiche descriptive](/riglos-decouverte-grandes-voies-23-26-04-2022.pdf).
