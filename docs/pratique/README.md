@@ -38,13 +38,13 @@ Les cours ont lieu au Gymnase du [Lycée Germaine Tillion](https://www.google.fr
 
 Public | Catégorie | Licence avec assurance | Ecole d'escalade | Total |
 | :---: | :---: | :---: | :---: | :---: |
-+ de 24 ans | T1 | 137,70€ | 185,00€ | 322,70€ |
-18 à 24 ans | J1 | 121,50€ | 185,00€ | 306,50€ |
-- de 18 ans | J2 | 116,30€ | 185,00€ | 301,30€ |
-Conjoint d'adhérent | C1 | 121,60€ | 185,00€ | 306,60€ |
-Enfants d'adhérent</br>(18 à 24 ans) | E1 | 110,60€ | 185,00€ | 295,60€ |
-Enfants d'adhérent</br>(- 18 ans) | E2 | 104,90€ | 185,00€ | 289,90€ |
-+ de 65 ans et</br>+ de 25 ans de CAF | A1 | 128,40€ | 185,00€ | 313,40€ |
++ de 24 ans | T1 | 137,70€ | 186,00€ | 323,70€ |
+18 à 24 ans | J1 | 121,50€ | 186,00€ | 307,50€ |
+- de 18 ans | J2 | 116,30€ | 186,00€ | 302,30€ |
+Conjoint d'adhérent | C1 | 121,60€ | 186,00€ | 307,60€ |
+Enfants d'adhérent</br>(18 à 24 ans) | E1 | 110,60€ | 186,00€ | 296,60€ |
+Enfants d'adhérent</br>(- 18 ans) | E2 | 104,90€ | 186,00€ | 290,90€ |
++ de 65 ans et</br>+ de 25 ans de CAF | A1 | 128,40€ | 186,00€ | 314,40€ |
 
 ### Randonnée
 
