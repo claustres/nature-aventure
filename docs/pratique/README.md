@@ -38,25 +38,25 @@ Les cours ont lieu au Gymnase du [Lycée Germaine Tillion](https://www.google.fr
 
 Public | Catégorie | Licence avec assurance | Ecole d'escalade | Total |
 | :---: | :---: | :---: | :---: | :---: |
-+ de 24 ans | T1 | 137,70€ | 186,00€ | 323,70€ |
-18 à 24 ans | J1 | 121,50€ | 186,00€ | 307,50€ |
-- de 18 ans | J2 | 116,30€ | 186,00€ | 302,30€ |
-Conjoint d'adhérent | C1 | 121,60€ | 186,00€ | 307,60€ |
-Enfants d'adhérent</br>(18 à 24 ans) | E1 | 110,60€ | 186,00€ | 296,60€ |
-Enfants d'adhérent</br>(- 18 ans) | E2 | 104,90€ | 186,00€ | 290,90€ |
-+ de 65 ans et</br>+ de 25 ans de CAF | A1 | 128,40€ | 186,00€ | 314,40€ |
++ de 24 ans | T1 | 120,10€ | 186,00€ | 306,10€ |
+18 à 24 ans | J1 | 107,10€ | 186,00€ | 293,10€ |
+- de 18 ans | J2 | 102,10€ | 186,00€ | 288,10€ |
+Conjoint d'adhérent | C1 | 103,10€ | 186,00€ | 289,10€ |
+Enfants d'adhérent</br>(18 à 24 ans) | E1 | 96,10€ | 186,00€ | 282,10€ |
+Enfants d'adhérent</br>(- 18 ans) | E2 | 90,60€ | 186,00€ | 276,60€ |
++ de 65 ans et</br>+ de 25 ans de CAF | A1 | 110,10€ | 186,00€ | 296,10€ |
 
 ### Randonnée
 
 Public | Catégorie | Licence avec assurance | 
 | :---: | :---: | :---: |
-+ de 24 ans | T1 | 137,70€ |
-18 à 24 ans | J1 | 121,50€ |
-- de 18 ans | J2 | 116,30€ |
-Conjoint d'adhérent | C1 | 121,60€ |
-Enfants d'adhérent</br>(18 à 24 ans) | E1 | 110,60€ |
-Enfants d'adhérent</br>(- 18 ans) | E2 | 104,90€ |
-+ de 65 ans et</br>+ de 25 ans de CAF | A1 | 128,40€ |
++ de 24 ans | T1 | 120,10€ |
+18 à 24 ans | J1 | 107,10€ |
+- de 18 ans | J2 | 102,10€ |
+Conjoint d'adhérent | C1 | 103,10€ |
+Enfants d'adhérent</br>(18 à 24 ans) | E1 | 96,10€ |
+Enfants d'adhérent</br>(- 18 ans) | E2 | 90,60€ |
++ de 65 ans et</br>+ de 25 ans de CAF | A1 | 110,10€ |
 
 ## Communication
 
