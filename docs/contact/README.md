@@ -4,7 +4,7 @@ sidebar: false
 
 # Pour nous contacter
 
-::: tip Si votre message concerne les inscriptions ou les licences utilisez l'adresse dédiée: <a href="mailto:inscriptions-club-nature-aventure@googlegroups.com">inscriptions-club-nature-aventure@googlegroups.com</a>.
+::: tip Si votre message concerne les inscriptions ou les licences utilisez l'adresse dédiée: <a href="mailto:inscriptions.natureaventure11@gmail.com">inscriptions.natureaventure11@gmail.com</a>.
 :::
 
 ::: tip Pour tout autre question utilisez l'adresse e-mail du club: <a href="mailto:natureaventure11@gmail.com">natureaventure11@gmail.com</a>.
