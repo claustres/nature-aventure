@@ -12,11 +12,7 @@ Il contient en général pour chaque sortie un lien vers la page d'inscription a
 
 ## Stages
 
-### Perfectionnement Falaise et Grande Voie - Octobre 2022
-
-Stage proposé par le [CNA](/), modalités dans la [fiche descriptive](/stage-escalade-organya-29-10-2022.pdf).
-
-Inscription et paiement directement auprès de la monitrice.
+*Informations à venir*
 
 ## Formations
 
@@ -31,6 +27,12 @@ Contact Laurence Combes: 06 03 50 00 85
 *Informations à venir*
 
 <!--
+### Perfectionnement Falaise et Grande Voie - Octobre 2022
+
+Stage proposé par le [CNA](/), modalités dans la [fiche descriptive](/stage-escalade-organya-29-10-2022.pdf).
+
+Inscription et paiement directement auprès de la monitrice.
+
 ### Canyoning - Juillet 2022
 
 Stage proposé par le [CNA](/) et le [CAFPA](/), modalités dans la [fiche descriptive](/stage-canyon-05-07-07-2022.pdf).
