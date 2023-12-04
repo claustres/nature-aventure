@@ -12,7 +12,17 @@ Il contient en général pour chaque sortie un lien vers la page d'inscription a
 
 ## Stages
 
-*Informations à venir*
+### Stage Initiation Grandes Voies - Avril 2024
+
+Stage proposé par le [CNA](/), modalités dans la [fiche descriptive](/calanques-grandes-voies-06-09-04-2024.pdf).
+
+Inscription et paiement directement auprès de la monitrice.
+
+### Stage Perfectionnement Grandes Voies - Mai 2024
+
+Stage proposé par le [CNA](/), modalités dans la [fiche descriptive](/verdon-perfectionnement-grandes-voies-01-05-05-2024.pdf).
+
+Inscription et paiement directement auprès de la monitrice.
 
 ## Formations
 
