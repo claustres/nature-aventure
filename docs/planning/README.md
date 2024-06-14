@@ -12,15 +12,15 @@ Il contient en général pour chaque sortie un lien vers la page d'inscription a
 
 ## Stages
 
-### Stage Initiation Grandes Voies - Avril 2024
+### Stage Initiation Canyoning - Juillet 2024
 
-Stage proposé par le [CNA](/), modalités dans la [fiche descriptive](/calanques-grandes-voies-06-09-04-2024.pdf).
+Stage proposé par le [CNA](/), modalités dans la [fiche descriptive](/initiation-canyoning-06-10-07-2024.pdf).
 
 Inscription et paiement directement auprès de la monitrice.
 
-### Stage Perfectionnement Grandes Voies - Mai 2024
+### Stage Perfectionnement Grandes Voies - Septembre 2024
 
-Stage proposé par le [CNA](/), modalités dans la [fiche descriptive](/verdon-perfectionnement-grandes-voies-01-05-05-2024.pdf).
+Stage proposé par le [CNA](/), modalités dans la [fiche descriptive](/verdon-perfectionnement-grandes-voies-11-15-09-2024.pdf).
 
 Inscription et paiement directement auprès de la monitrice.
 
@@ -37,6 +37,18 @@ Contact Laurence Combes: 06 03 50 00 85
 *Informations à venir*
 
 <!--
+### Stage Initiation Grandes Voies - Avril 2024
+
+Stage proposé par le [CNA](/), modalités dans la [fiche descriptive](/calanques-grandes-voies-06-09-04-2024.pdf).
+
+Inscription et paiement directement auprès de la monitrice.
+
+### Stage Perfectionnement Grandes Voies - Mai 2024
+
+Stage proposé par le [CNA](/), modalités dans la [fiche descriptive](/verdon-perfectionnement-grandes-voies-01-05-05-2024.pdf).
+
+Inscription et paiement directement auprès de la monitrice.
+
 ### Perfectionnement Falaise et Grande Voie - Octobre 2022
 
 Stage proposé par le [CNA](/), modalités dans la [fiche descriptive](/stage-escalade-organya-29-10-2022.pdf).
