@@ -1,17 +1,31 @@
 name: Build and Deploy
-on: push
+on: [ push, workflow_dispatch ]
 
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout
-      uses: actions/checkout@master
-    - name: vuepress-deploy
-      uses: IT4Change/vuepress-build-and-deploy@master
-      env:
-        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-        TARGET_REPO: claustres/nature-aventure
-        TARGET_BRANCH: master
-        BUILD_SCRIPT: yarn && yarn build && echo 'natureaventure11.fr' > site/CNAME
-        BUILD_DIR: site
+      - uses: actions/checkout@v4
+        
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          # choose node.js version to use
+          node-version: 16
+
+      # run build script
+      - name: Build VuePress site
+        run: yarn && yarn build && echo 'natureaventure11.fr' > site/CNAME
+
+      # please check out the docs of the workflow for more details
+      # @see https://github.com/crazy-max/ghaction-github-pages
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          # deploy to gh-pages branch
+          target_branch: gh-pages
+          # deploy the default output dir of VuePress
+          build_dir: site
+        env:
+          # @see https://docs.github.com/en/actions/reference/authentication-in-a-workflow#about-the-github_token-secret
+          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
