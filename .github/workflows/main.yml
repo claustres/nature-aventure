@@ -1,0 +1,17 @@
+name: Build and Deploy
+on: push
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@master
+    - name: vuepress-deploy
+      uses: IT4Change/vuepress-build-and-deploy@master
+      env:
+        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        TARGET_REPO: claustres/nature-aventure
+        TARGET_BRANCH: master
+        BUILD_SCRIPT: yarn && yarn build && echo 'natureaventure11.fr' > site/CNAME
+        BUILD_DIR: site
