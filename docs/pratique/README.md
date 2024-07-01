@@ -15,9 +15,9 @@ Plusieurs actions tout au long de l’année :
 * Passage des UF (attestation de niveau d’autonomie dans la pratique de l’escalade) tout au long de l’année pour les licenciés d’escalade.
 * Participation aux compétitions départementale, régionale et nationale d’escalade.
 
-## Cours 2023-2024
+## Cours 2024-2025
 
-Les cours ont lieu au Gymnase du [Lycée Germaine Tillion](https://www.google.fr/maps?q=Lyc%C3%A9e+Germaine+Tillion+1+rue+du+Campus+Jean+Durand+11493+Castelnaudary&rlz=1C1CHBF_frFR774FR774&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjD3c7q2e7aAhXLK8AKHasbAkkQ_AUoAXoECAAQAw) toutes les semaines (hors vacances scolaires) à partir du **11 septembre 2023**:
+Les cours ont lieu au Gymnase du [Lycée Germaine Tillion](https://www.google.fr/maps?q=Lyc%C3%A9e+Germaine+Tillion+1+rue+du+Campus+Jean+Durand+11493+Castelnaudary&rlz=1C1CHBF_frFR774FR774&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjD3c7q2e7aAhXLK8AKHasbAkkQ_AUoAXoECAAQAw) toutes les semaines (hors vacances scolaires) à partir du **16 septembre 2024**:
 
 | Horaire | Public | Contenu |
 | :---: | :---: | :---: |
@@ -38,25 +38,25 @@ Les cours ont lieu au Gymnase du [Lycée Germaine Tillion](https://www.google.fr
 
 Public | Catégorie | Licence avec assurance | Ecole d'escalade | Total |
 | :---: | :---: | :---: | :---: | :---: |
-+ de 24 ans | T1 | 142,10€ | 186,00€ | 328,10€ |
-18 à 24 ans | J1 | 124,10€ | 186,00€ | 310,10€ |
-- de 18 ans | J2 | 119,10€ | 186,00€ | 305,10€ |
-Conjoint d'adhérent | C1 | 125,10€ | 186,00€ | 311,10€ |
-Enfants d'adhérent</br>(18 à 24 ans) | E1 | 113,10€ | 186,00€ | 299,10€ |
-Enfants d'adhérent</br>(- 18 ans) | E2 | 107,60€ | 186,00€ | 293,60€ |
-+ de 65 ans et</br>+ de 25 ans de CAF | A1 | 132,10€ | 186,00€ | 318,10€ |
++ de 24 ans | T1 | 145,50€ | 186,00€ | 331,60€ |
+18 à 24 ans | J1 | 128,10€ | 186,00€ | 314,10€ |
+- de 18 ans | J2 | 123,10€ | 186,00€ | 309,10€ |
+Conjoint d'adhérent | C1 | 128,50€ | 186,00€ | 314,50€ |
+Enfants d'adhérent</br>(18 à 24 ans) | E1 | 117,10€ | 186,00€ | 303,10€ |
+Enfants d'adhérent</br>(- 18 ans) | E2 | 111,60€ | 186,00€ | 297,60€ |
++ de 65 ans et</br>+ de 25 ans de CAF | A1 | 135,50€ | 186,00€ | 321,50€ |
 
 ### Randonnée
 
 Public | Catégorie | Licence avec assurance | 
 | :---: | :---: | :---: |
-+ de 24 ans | T1 | 142,10€ |
-18 à 24 ans | J1 | 124,10€ |
-- de 18 ans | J2 | 119,10€ |
-Conjoint d'adhérent | C1 | 125,10€ |
-Enfants d'adhérent</br>(18 à 24 ans) | E1 | 113,10€ |
-Enfants d'adhérent</br>(- 18 ans) | E2 | 107,60€ |
-+ de 65 ans et</br>+ de 25 ans de CAF | A1 | 132,10€ |
++ de 24 ans | T1 | 145,50€ |
+18 à 24 ans | J1 | 128,10€ |
+- de 18 ans | J2 | 123,10€ |
+Conjoint d'adhérent | C1 | 128,50€ |
+Enfants d'adhérent</br>(18 à 24 ans) | E1 | 117,10€ |
+Enfants d'adhérent</br>(- 18 ans) | E2 | 111,60€ |
++ de 65 ans et</br>+ de 25 ans de CAF | A1 | 135,50€ |
 
 ## Communication
 

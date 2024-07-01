@@ -6,6 +6,8 @@ sidebar: auto
 
 ::: tip Note
 Avant toute inscription ou préinscription vous devez compléter votre [fiche d'adhésion](https://tinyurl.com/36n6u4bv) afin que votre demande soit bien enregistrée.
+
+Les nouvelles inscriptions sont ouvertes à partir de la mi-juillet.
 :::
 
 ::: warning Note
