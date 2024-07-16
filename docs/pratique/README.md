@@ -26,7 +26,7 @@ Les cours ont lieu au Gymnase du [Lycée Germaine Tillion](https://www.google.fr
 | Mardi de 19h à 21h | *A déterminer* | *A déterminer* |
 | Mercredi de 15h30 à 17h | 8 à 10 ans *(débutants)* | Cours |
 | Mercredi de 17h à 18h30 | 9 à 11 ans *(initiés)* | Cours |
-| Mercredi de 18h30 à 20h | + de 16 ans *(+ de 2 ans de pratique)* | Cours |
+| Mercredi de 18h30 à 20h30 | + de 16 ans *(+ de 2 ans de pratique)* | Cours |
 | Jeudi de 17h30 à 19h | 11 à 15 ans *(débutants)* | Cours |
 | Jeudi de 19h à 21h | + de 16 ans *(débutants)* | Cours |
 
@@ -38,7 +38,7 @@ Les cours ont lieu au Gymnase du [Lycée Germaine Tillion](https://www.google.fr
 
 Public | Catégorie | Licence avec assurance | Ecole d'escalade | Total |
 | :---: | :---: | :---: | :---: | :---: |
-+ de 24 ans | T1 | 145,50€ | 186,00€ | 331,60€ |
++ de 24 ans | T1 | 145,50€ | 186,00€ | 331,50€ |
 18 à 24 ans | J1 | 128,10€ | 186,00€ | 314,10€ |
 - de 18 ans | J2 | 123,10€ | 186,00€ | 309,10€ |
 Conjoint d'adhérent | C1 | 128,50€ | 186,00€ | 314,50€ |
