@@ -28,11 +28,7 @@ L'assurance est obligatoire pour la pratique en club (cours et sorties).
 **2. Enregistrez et réglez votre licence avec l'assurance obligatoire sur le site de la Fédération à partir du 1er septembre**
   
   * Vous étiez licencié l'an dernier ? Vous pouvez renouveler votre licence via votre [espace personnel FFCAM](https://extranet-clubalpin.com/monespace/).
-  * Vous êtes nouveau ? Alors rendez-vous [ici](https://) (lien actif à venir).
-
-  <!--
   * Vous êtes nouveau ? Alors rendez-vous [ici](https://extranet-clubalpin.com/app/webeff/we_crv2_step01.php?IDCLUB=1141&Hchk=D94fh5Ugroz23RJdSDG5gs45SU55bL).
-  -->
 
 ::: warning Attention
 Le nombre de places disponibles en *escalade* étant limité les inscriptions seront traitées selon l'ordre d'arrivée.
