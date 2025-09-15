@@ -6,9 +6,9 @@ sidebar: auto
 
 ## Sorties
 
-Vous trouverez la liste des sorties organisées par le club dans les prochaines semaines sur notre [planning](https://docs.google.com/spreadsheets/d/1AW-J2M8-Y86XnBuipEmU6pKEYQKVvhy5MC7zW5YKC9Q).
+Vous trouverez la liste des sorties organisées par le club dans les prochaines semaines sur notre [planning](https://docs.google.com/spreadsheets/d/1zl56h9zB8KLiBJZrrQREWO2AsMjqPOEwHRkJdHuHwE4).
 
-Il contient en général pour chaque sortie un lien vers la page d'inscription associée. S'il n'est pas disponible rendez-vous sur nos [formulaires d'inscription](https://docs.google.com/spreadsheets/d/1Zzor_8OPznzXVu0C892T2ZfACZxG8KY2uerv4Qn19LE) pour le retrouver.
+Il contient en général pour chaque sortie un lien vers la page d'inscription associée. S'il n'est pas disponible rendez-vous sur nos [formulaires d'inscription](https://docs.google.com/spreadsheets/d/142S7ed0gII4Okl6xxS6yrZU0v4yIHCl5XC_DbOzCFpk) pour le retrouver.
 
 ## Stages
 
