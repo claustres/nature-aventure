@@ -26,7 +26,7 @@ Les cours ont lieu au Gymnase du [Lycée Germaine Tillion](https://www.google.fr
 | Mardi de 19h à 21h | + de 16 ans *(+ de 2 ans de pratique)* | Cours |
 | Mercredi de 15h30 à 17h | 8 à 10 ans *(débutants)* | Cours |
 | Mercredi de 17h à 18h30 | 9 à 11 ans *(initiés)* | Cours |
-| Mercredi de 18h30 à 20h30 | + de 16 ans *(+ de 2 ans de pratique)* | Cours |
+| Mercredi de 18h30 à 21h00 | + de 16 ans *(+ de 2 ans de pratique)* | Cours |
 | Jeudi de 17h30 à 19h | 11 à 15 ans *(débutants)* | Cours |
 | Jeudi de 19h à 21h | *A déterminer* | *A déterminer* |
 
@@ -45,6 +45,8 @@ Conjoint d'adhérent | C1 | 130,50€ | 186,00€ | 316,50€ |
 Enfants d'adhérent</br>(18 à 24 ans) | E1 | 119,10€ | 186,00€ | 305,10€ |
 Enfants d'adhérent</br>(- 18 ans) | E2 | 113,60€ | 186,00€ | 299,60€ |
 + de 65 ans et</br>+ de 25 ans de CAF | A1 | 137,50€ | 186,00€ | 323,50€ |
+
+Pour les personnes ne souhaitant pas s'inscrire aux cours mais souhaitant profiter des sorties organisées par le club en falaise, nous proposons une cotisation annuelle de 50€.
 
 ### Randonnée
 
