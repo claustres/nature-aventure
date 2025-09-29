@@ -6,9 +6,9 @@ sidebar: auto
 
 ## Sorties
 
-Vous trouverez la liste des sorties organisées par le club dans les prochaines semaines sur notre [planning](https://docs.google.com/spreadsheets/d/1zl56h9zB8KLiBJZrrQREWO2AsMjqPOEwHRkJdHuHwE4).
+Vous trouverez la liste des sorties organisées par le club dans les prochaines semaines sur notre [planning](https://sorties.ffcam.fr/programme/qeklqvdqkm43yvwwrckw).
 
-Il contient en général pour chaque sortie un lien vers la page d'inscription associée. S'il n'est pas disponible rendez-vous sur nos [formulaires d'inscription](https://docs.google.com/spreadsheets/d/142S7ed0gII4Okl6xxS6yrZU0v4yIHCl5XC_DbOzCFpk) pour le retrouver.
+L'inscription aux sorties s'effectue par l'intermédiaire de [l'application des gestion des sorties](https://sorties.ffcam.fr/dashboard) proposée par la fédération. Vous y avez automatiquement accès en vous connectant sur le [portail de la fédération](https://portail.ffcam.fr/) avec les même identifiants que ceux de votre espace licencié.
 
 ## Stages
 
