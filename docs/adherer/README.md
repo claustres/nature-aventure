@@ -5,7 +5,7 @@ sidebar: auto
 # Adhérer
 
 ::: tip Note
-Avant toute inscription ou préinscription vous devez compléter votre [fiche d'adhésion](https://tinyurl.com/4m7htjm2) afin que votre demande soit bien enregistrée.
+Avant toute inscription ou préinscription vous devez compléter votre [fiche d'adhésion](https://forms.gle/eCrd5L8fysAHAH6G8) afin que votre demande soit bien enregistrée.
 
 Les nouvelles inscriptions sont ouvertes à partir de la mi-juillet.
 :::
