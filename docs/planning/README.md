@@ -12,17 +12,7 @@ L'inscription aux sorties s'effectue par l'intermédiaire de [l'application des 
 
 ## Stages
 
-### Stage Initiation Canyoning - Juillet 2024
-
-Stage proposé par le [CNA](/), modalités dans la [fiche descriptive](/initiation-canyoning-06-10-07-2024.pdf).
-
-Inscription et paiement directement auprès de la monitrice.
-
-### Stage Perfectionnement Grandes Voies - Septembre 2024
-
-Stage proposé par le [CNA](/), modalités dans la [fiche descriptive](/verdon-perfectionnement-grandes-voies-11-15-09-2024.pdf).
-
-Inscription et paiement directement auprès de la monitrice.
+*Informations à venir*
 
 ## Formations
 
@@ -37,6 +27,18 @@ Contact Laurence Combes: 06 03 50 00 85
 *Informations à venir*
 
 <!--
+### Stage Initiation Canyoning - Juillet 2024
+
+Stage proposé par le [CNA](/), modalités dans la [fiche descriptive](/initiation-canyoning-06-10-07-2024.pdf).
+
+Inscription et paiement directement auprès de la monitrice.
+
+### Stage Perfectionnement Grandes Voies - Septembre 2024
+
+Stage proposé par le [CNA](/), modalités dans la [fiche descriptive](/verdon-perfectionnement-grandes-voies-11-15-09-2024.pdf).
+
+Inscription et paiement directement auprès de la monitrice.
+
 ### Stage Initiation Grandes Voies - Avril 2024
 
 Stage proposé par le [CNA](/), modalités dans la [fiche descriptive](/calanques-grandes-voies-06-09-04-2024.pdf).
