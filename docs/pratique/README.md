@@ -38,13 +38,13 @@ Les cours ont lieu au Gymnase du [Lycée Germaine Tillion](https://www.google.fr
 
 Public | Catégorie | Licence avec assurance | Ecole d'escalade | Total |
 | :---: | :---: | :---: | :---: | :---: |
-+ de 24 ans | T1 | 147,50€ | 186,00€ | 333,50€ |
-18 à 24 ans | J1 | 129,10€ | 186,00€ | 315,10€ |
-- de 18 ans | J2 | 124,10€ | 186,00€ | 310,10€ |
-Conjoint d'adhérent | C1 | 130,50€ | 186,00€ | 316,50€ |
-Enfants d'adhérent</br>(18 à 24 ans) | E1 | 119,10€ | 186,00€ | 305,10€ |
-Enfants d'adhérent</br>(- 18 ans) | E2 | 113,60€ | 186,00€ | 299,60€ |
-+ de 65 ans et</br>+ de 25 ans de CAF | A1 | 137,50€ | 186,00€ | 323,50€ |
++ de 24 ans | T1 | 149,03€ | 186,00€ | 335,03€ |
+18 à 24 ans | J1 | 130,03€ | 186,00€ | 316,03€ |
+- de 18 ans | J2 | 125,53€ | 186,00€ | 311,53€ |
+Conjoint d'adhérent | C1 | 132,03€ | 186,00€ | 318,03€ |
+Enfants d'adhérent</br>(18 à 24 ans) | E1 | 120,03€ | 186,00€ | 306,03€ |
+Enfants d'adhérent</br>(- 18 ans) | E2 | 114,03€ | 186,00€ | 300,03€ |
++ de 65 ans et</br>+ de 25 ans de CAF | A1 | 139,03€ | 186,00€ | 325,03€ |
 
 Pour les personnes ne souhaitant pas s'inscrire aux cours mais souhaitant profiter des sorties organisées par le club en falaise, nous proposons une cotisation annuelle de 50€.
 
@@ -52,13 +52,13 @@ Pour les personnes ne souhaitant pas s'inscrire aux cours mais souhaitant profit
 
 Public | Catégorie | Licence avec assurance | 
 | :---: | :---: | :---: |
-+ de 24 ans | T1 | 147,50€ |
-18 à 24 ans | J1 | 129,10€ |
-- de 18 ans | J2 | 124,10€ |
-Conjoint d'adhérent | C1 | 130,50€ |
-Enfants d'adhérent</br>(18 à 24 ans) | E1 | 119,10€ |
-Enfants d'adhérent</br>(- 18 ans) | E2 | 113,60€ |
-+ de 65 ans et</br>+ de 25 ans de CAF | A1 | 137,50€ |
++ de 24 ans | T1 | 149,03€ |
+18 à 24 ans | J1 | 130,03€ |
+- de 18 ans | J2 | 125,53€ |
+Conjoint d'adhérent | C1 | 132,03€ |
+Enfants d'adhérent</br>(18 à 24 ans) | E1 | 120,03€ |
+Enfants d'adhérent</br>(- 18 ans) | E2 | 114,03€ |
++ de 65 ans et</br>+ de 25 ans de CAF | A1 | 139,03€ |
 
 ## Communication
 
